@@ -29,3 +29,17 @@ Icon
 __MACOSX/
 
 
+# C sharp
+# Compiled source files
+*.com
+*.class
+*.dll
+*.exe
+*.pdb
+*.cache
+*.suo
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/

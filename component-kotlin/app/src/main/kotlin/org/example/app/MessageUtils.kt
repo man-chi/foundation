@@ -7,4 +7,6 @@ class MessageUtils {
     companion object {
         fun getMessage(): String = "Hello      World!"
     }
+
+    fun add(x: Int, y: Int) = x + y
 }

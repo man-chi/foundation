@@ -10,38 +10,4 @@ fun main() {
     val tokens = StringUtils.split(MessageUtils.getMessage())
     val result = StringUtils.join(tokens)
     println(WordUtils.capitalize(result))
-    println(add(1, 2))
-}
-
-fun add(x: Int, y: Int) = x + y
-
-fun binarySearchs(array: IntArray, number: Int): Int {
-    var bottom = 0
-    var top = array.size - 1
-    var index = -1
-    var found = false
-    while (!found && bottom <= top) {
-        val middle = (bottom + top) / 2
-        when {
-            array[middle] == number -> {
-                found = true
-                index = middle
-            }
-            array[middle] > number -> top = middle - 1
-            else -> bottom = middle + 1
-        }
-    }
-    return index
-}
-
-fun bubbleSorts(array: IntArray) {
-    for (i in 0 until array.size - 1) {
-        for (j in 0 until array.size - 1 - i) {
-            if (array[j] > array[j + 1]) {
-                val temp = array[j]
-                array[j] = array[j + 1]
-                array[j + 1] = temp
-            }
-        }
-    }
 }

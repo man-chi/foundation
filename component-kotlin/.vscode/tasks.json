@@ -21,6 +21,13 @@
             "label": "test",
             "type": "shell",
             "command": "./gradlew test",
-            "problemMatcher": []}
+            "problemMatcher": []
+        }
+        {
+            "label": "clean",
+            "type": "shell",
+            "command": "./gradlew clean",
+            "problemMatcher": []
+        }
     ]
 }

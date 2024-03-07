@@ -11,10 +11,4 @@ class MessageUtilsTest {
     fun testGetMessage() {
         assertEquals("Hello      World!", MessageUtils.getMessage())
     }
-
-    @Test
-    fun testBinarySearch() {
-        val array = intArrayOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
-        assertEquals(4, binarySearchs(array, 5))
-    }
 }
