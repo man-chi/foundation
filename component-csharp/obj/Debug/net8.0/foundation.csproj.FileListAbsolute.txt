@@ -1,0 +1,15 @@
+/workspaces/foundation/component-csharp/bin/Debug/net8.0/foundation
+/workspaces/foundation/component-csharp/bin/Debug/net8.0/foundation.deps.json
+/workspaces/foundation/component-csharp/bin/Debug/net8.0/foundation.runtimeconfig.json
+/workspaces/foundation/component-csharp/bin/Debug/net8.0/foundation.dll
+/workspaces/foundation/component-csharp/bin/Debug/net8.0/foundation.pdb
+/workspaces/foundation/component-csharp/obj/Debug/net8.0/foundation.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/foundation/component-csharp/obj/Debug/net8.0/foundation.AssemblyInfoInputs.cache
+/workspaces/foundation/component-csharp/obj/Debug/net8.0/foundation.AssemblyInfo.cs
+/workspaces/foundation/component-csharp/obj/Debug/net8.0/foundation.csproj.CoreCompileInputs.cache
+/workspaces/foundation/component-csharp/obj/Debug/net8.0/foundation.sourcelink.json
+/workspaces/foundation/component-csharp/obj/Debug/net8.0/foundation.dll
+/workspaces/foundation/component-csharp/obj/Debug/net8.0/refint/foundation.dll
+/workspaces/foundation/component-csharp/obj/Debug/net8.0/foundation.pdb
+/workspaces/foundation/component-csharp/obj/Debug/net8.0/foundation.genruntimeconfig.cache
+/workspaces/foundation/component-csharp/obj/Debug/net8.0/ref/foundation.dll
