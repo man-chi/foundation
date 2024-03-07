@@ -9,7 +9,7 @@ TIP: use plantuml for drawing C4 and UML diagram in general
 [plantuml]
 ....
 @startuml
-scale 400 width
+scale 500 width
 !include <C4/C4_Container>
 ' uncomment the following line and comment the first to use locally
 ' !include C4_Context.puml
