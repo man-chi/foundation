@@ -1,0 +1,122 @@
+= Motivation
+:navtitle: Motivation Model
+
+== Problem Statement
+
+huge disruption happened in past 5 years, due to pandemic, trade war, military war and AI adaption.
+
+Statistics::
+The software industry has been in crisis since 1970s According to the Standish Group's CHAOS Report in 2018, only 29% of software projects were deemed successful, while 52% were considered over budget or delayed, and 19% were outright failures (abandoned or not used).
+
+Root Cause Analysis::
+. Intent: setup for failure: unclear or even confused on external force of stakeholders, outcome, strategy and business model, leading incorrect goal setting and KPI.
+. Design: failed before execution: conceptual business strategy is not concrete and realizable for technical execution. enterprise architecture required to bridge the huge gap.
+. Process: too much focus on technology, tooling and programming language; dev team should focus on design, process, capability and governance.
+. Measure: software developers spend up to 42% of work week dealing with technical debt and bad code. code quality measurement is required to provide transparency on complexity, allowing leadership to define policy, assess cost of delay and weighted shortest job first
+
+Biggest Challenges::
+. volatility
+. uncertainty
+. complexity
+. ambiguity
+
+== Solution
+
+Vision::
+Our vision is to empower and transform the technology industry by revolutionizing software development through cutting-edge measurements and tools for assessing source code quality.
+We aim to maximize success rates by providing developers and organizations with actionable insights that drive efficiency, reliability, and maintainability.
+
+Mission::
+Our mission is to develop and deliver state-of-the-art measurement solutions for software source code quality.
+We are dedicated to providing developers and organizations with comprehensive tools and methodologies that enable them to assess, improve, and optimize their code.
+Through our innovative solutions, we aim to enhance software development processes, reduce technical debt, and facilitate the creation of robust, scalable, and maintainable software systems
+
+Goal Settings::
+. Develop cutting-edge measurement tools
+. Provide comprehensive code assessment solutions
+. Drive software development efficiency
+
+====
+OKRs
+
+.Objective 1: Develop cutting-edge measurement tools
+[%collapsible]
+======
+Key Result 1: Launch a beta version of the measurement tool with a minimum of 100 active users by the end of the quarter.
+Key Result 2: Achieve a customer satisfaction score of 4 out of 5 for the measurement tool based on user feedback surveys.
+Key Result 3: Publish at least two research papers or technical articles on novel measurement algorithms and methodologies in reputable software engineering journals or conferences.
+======
+
+.Objective 2: Provide comprehensive code assessment solutions
+[%collapsible]
+======
+Key Result 1: Develop modules within the code assessment solution to analyze readability, maintainability, performance, and security aspects, with at least 80% code coverage.
+Key Result 2: Generate comprehensive reports with actionable insights for code improvement for a minimum of 500 projects within the first quarter.
+Key Result 3: Increase user adoption of the code assessment solution by 30% compared to the previous quarter through targeted marketing campaigns and partnerships.
+======
+
+.Objective 3: Drive software development efficiency
+[%collapsible]
+======
+Key Result 1: Reduce the average time spent on code reviews by 20% through the adoption of code assessment tools and automated analysis.
+Key Result 2: Increase the number of successful builds and deployments by 15% by identifying and addressing common pitfalls in the software development process.
+Key Result 3: Conduct workshops or training sessions on code quality best practices for at least 50 development teams within the organization.
+======
+====
+
+== Valuation
+
+Ecosystem & Pressure (STEEPL)::
+business must be designed to be agile due to natural uncertainty:
+. Social: code complexity reflects aspect of social activities
+. Technological: artificial intelligence has advanced as norm
+. Economical: business are greatly depending on software
+. Environmental: expecting more energy saving from code efficiency
+. Political: code analysis for trade sanction
+. Legal: as powerful tool in due diligence and M&A
+
+Stakeholder(DRIVER) Analysis::
+capture, create, deliver values to these drivers (direct & indirect interests)!!
+. customers
+. supplier
+. employee
+. owners
+. community
+. competitor
+. enterprise
+
+|===
+|Stakeholder |Exchange (I/O) |Expectation |Experience |KPI
+
+|consumer
+|online services
+|no errors in transaction
+|easy way to transact
+|< 3% error rate
+|===
+
+== Team Core Values
+
+Be AI-native in Every endeavor::
+every endeavor is guided by the transformative power of Artificial Intelligence in the medical domain.
+We are committed to being AI-first in all aspects of our work, embodying innovation, efficiency, and precision.
+
+Be generous to help::
+This value emphasizes the importance of generosity in coaching and mentoring others.
+It suggests a willingness to share knowledge, provide guidance, and foster a collaborative learning environment.
+
+Be transparent to escalate::
+This value promotes transparency in communication when escalating issues.
+Team members should openly and honestly communicate problems or challenges to the appropriate stakeholders, enabling timely resolution.
+
+Be focused on priority::
+This value highlights the need for maintaining focus on priorities.
+It encourages team members to identify and concentrate on the most important tasks or goals, ensuring efficient use of time and resources.
+
+Candidate Criteria::
+. technical competency
+. culture fit
+. conflict consensus
+
+Open Company (reference)::
+https://handbook.sourcegraph.com/[SourceGraph handbook]

@@ -1,0 +1,108 @@
+= Languages
+:navtitle: languages
+
+== Core Programming Languages
+
+[graphviz]
+....
+digraph finite_state_machine {
+
+	rankdir=LR;
+	size="5,5";
+
+    node [shape = circle]; Typescript;
+    node [shape = circle]; Python;
+    node [shape = circle]; Kotlin;
+    node [shape = circle]; Rust;
+    node [shape = circle]; "C#";
+    node [shape = circle]; Julia;
+
+ 	Kotlin -> "C#" [ label = "Enterprise" ];
+    Python -> Julia [ label = "Scientific" ];
+	Typescript -> Rust [ label = "Web" ];
+}
+....
+
+== typescript
+
+* prefer interface than type alias; interface is open for extension, while type is close for nested type
+* type aliases can be helpful when working with union types, intersection types, and generics,
+* union type: `type WindowStates = "open" | "closed" | "minimized";`
+// https://stackoverflow.com/questions/37233735/typescript-interfaces-vs-types/52682220#52682220
+
+* The shape-matching only requires a subset of the object’s fields to match; There is no difference between how classes and objects conform to shapes, as long as the arguement is compatible or subset!
+
+[source,javascript]
+----
+const point3 = { x: 12, y: 26, z: 89 };
+logPoint(point3); // logs "12, 26"
+
+const rect = { x: 33, y: 3, width: 30, height: 80 };
+logPoint(rect); // logs "33, 3"
+
+const color = { hex: "#187ABF" };
+logPoint(color);
+Argument of type '{ hex: string; }' is not assignable to parameter of type 'Point'.
+Type '{ hex: string; }' is missing the following properties from type 'Point': x, y
+----
+
+tuple(and) vs union (or) type::
+* tuples are for fixed-size arrays with known types at each index, while union types are for expressing that a value can be of multiple types.
+
+* since JS does not have emum, using union for such
+
+union vs Intersections::
+
+[source]
+----
+type Combined = { a: number } & { b: string };
+type Conflicting = { a: number } & { a: string };
+----
+
+unknown (top type) vs any::
+* When a value is of type unknown, you must perform a type check or type assertion before using it, whereas a value of type any can be assigned to and from any other type without type checking.
+
+never (bottom type) vs void::
+* never is used to represent the type of values that never occur.
+It is typically used as the return type of functions that never return, such as functions that throw errors or have infinite loops.
+* void is used to indicate that a function does not return a value.
+It is the absence of a specific type, and is commonly used as the return type of functions that perform an action but do not produce a result.
+
+* Avoid using symbols for public APIs or general-purpose replacements for strings
+* `let age: number | undefined;` // Use undefined for uninitialized variables
+* object: // Avoid using object type if a more specific type can be used
+
+undefined vs null (judiciously)::
+* Use undefined for uninitialized variables, function arguments that are omitted, or missing object properties.
+* Use null to represent an intentional absence of value assigned by developers, or as a default value when no other value is available.
+
+
+Boxed types::
+
+[source]
+----
+(1).toExponential();
+// equivalent to
+Number.prototype.toExponential.call(1);
+----
+
+nullable and optional in TS::
+Here's an example of using ? for optional properties in TypeScript:
+
+----
+// Optional property syntax in TypeScript
+interface Person {
+  name: string;
+  age?: number; // Optional property
+}
+// nullable
+let nullableString: string | null = "Hello";
+----
+
+prototype-based OO vs interface-based OO::
+* prototype-based OO: class (js)
+* interface-based OO: interface (ts/java)
+
+== kotlin
+
+* using seal class & arrow's either to achieve Union type like TS

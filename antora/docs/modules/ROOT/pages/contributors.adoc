@@ -1,0 +1,10 @@
+== Credits:
+
+This template is mainly based on the work from the following excellent open source projects:
+
+* https://github.com/readthedocs/readthedocs.org[ Readthedocs - hosting service for documentation]
+* https://asciidoc.org[ Asciidoc - plain text markup language for writing content]
+* https://asciidoctor.org[ AsciiDoctor - text processor for parsing AsciiDoc format]
+* https://antora.org[ Antora - documentation site generator for asciidoctor]
+* https://github.com/asciidoctor/asciidoctor-kroki[ asciidoctor-kroki -  asciidoctor extension for Kroki (diagram as code)]
+* https://github.com/asciidoctor/asciidoctor-intellij-plugin[ asciidoctor-intellij-plugin - Asciidoc plugin for intellij]

@@ -1,0 +1,20 @@
+= Requirement
+:navtitle: Requirement
+
+Requirements are detailed specifications or criteria that describe the features, functionalities, constraints, and qualities a product, system, or project must meet to satisfy stakeholders.
+
+
+fundamental requirements
+functional requirements
+non-functional requirements
+
+elicitation
+specification
+specification
+design
+design
+design
+design
+
+
+

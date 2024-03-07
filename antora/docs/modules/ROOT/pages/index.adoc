@@ -1,0 +1,72 @@
+= Body of Knowledge
+:navtitle: Body of Knowledge
+:description: Aligning each of the frameworks with relationship and purpose.
+
+{description}
+
+.Body of Knowledge Metamodel
+image::bok.svg[Metamodel]
+
+[%autowidth,cols="a,a,a"]
+|===
+|Body of Knowledge |Organization |Knowledge Area
+
+|Software Engineering (SWEBOK V4 Public Review)
+|IEEE (since 2004)
+|
+
+. Requirement
+. Architecture
+. Design
+. Construction
+. Testing
+. Operations
+. Maintenance
+. Configuration Management
+. Management
+. Process
+. Models and Methods
+. Quality
+. Security
+. Professional Practice
+. Economics
+. Foundation: Computing, Math, Eng
+
+|Data Management (DAMA V2)
+|Data Management Association International since 1980
+| DAMA Wheel:
+
+. Architecture
+. Modeling & Design
+. Data Storage & Operations
+. Security
+. Integration & Interoperability
+. Doc & Content Management
+. Master Data Management
+. Data Warehousing & BI
+. Metadata
+. Quality
+
+|Tech Operation
+| IT4IT
+| 7 IT4IT Value Streams:
+
+. Evaluate
+. Explore
+. Integrate
+. Deploy
+. Release
+. Consume
+. Operate
+
+Digital Product Life Cycle:
+
+. Strategy to Portfolio
+. Requirement to Deploy
+. Request to fulfill
+. Detect to Correct
+. Supporting
+|===
+
+
+

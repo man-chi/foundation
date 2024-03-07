@@ -1,0 +1,20 @@
+* xref:motivation.adoc[Motivation]
+* xref:checklist.adoc[check List]
+* xref:architecture.adoc[Architecture]
+* xref:definition.adoc[Definition]
+* xref:requirements.adoc[Requirements]
+* xref:metrics.adoc[Metrics]
+* xref::[Dev Tools]
+** xref:devtool/git.adoc[Git]
+** xref:devtool/unix.adoc[Unix]
+* xref::[Docs as Code]
+** xref:asciidoc/asciidoc.adoc[Asciidoc]
+** xref:asciidoc/kroki.adoc[Kroki]
+** xref:asciidoc/vega.adoc[Vega]
+** xref:asciidoc/c4model.adoc[C4 Model]
+* xref::contributors.adoc[Credits]
+
+
+
+
+

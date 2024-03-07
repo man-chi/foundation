@@ -1,0 +1,35 @@
+site:
+  title: ReadTheDocs
+  start_page: main::index.adoc
+content:
+  sources:
+# uncomment the following lines for local file source
+# -   url: .
+  - url: https://github.com/man-chi/core.git
+    start_paths:
+    - antora/docs
+    branches: HEAD
+# uncomment the following lines for multi repository source
+#    - url: https://gitlab.com/antora/demo/demo-component-a.git
+#      branches: HEAD
+#    - url: https://gitlab.com/antora/demo/demo-component-b.git
+#      branches: [v2.0, v1.0]
+#      start_path: docs
+antora:
+  extensions:
+    -   require: '@antora/lunr-extension'
+ui:
+  bundle:
+    url: antora/ui-bundle.zip
+    snapshot: true
+  supplemental_files: antora/supplemental_ui
+# Global asciidoc attributes here, used across all versions of documentation
+asciidoc:
+  extensions:
+    - asciidoctor-kroki
+    # Antora will resolve extensions listed here that end with something that looks like a file name extension as files relative to the project's folder
+    # therefore append the slash
+  attributes:
+    kroki-fetch-diagram: true
+    idprefix: ''
+    idseparator: '-'

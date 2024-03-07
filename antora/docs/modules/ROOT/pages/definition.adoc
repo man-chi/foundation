@@ -1,0 +1,83 @@
+= Definition
+:navtitle: Definition
+
+Search::
+* https://pascal.computer.org/[SEVOCAB]
+* https://zbib.org/[Bibliography Search]
+
+Context::
+* immediate environment in which a function (or set of functions) operates
+
+Component vs Module::
+* Component - specific, named collection of features that can be described by an IDL component definition or a corresponding structure in an interface repository (ISO/IEC 19500)
+* module - program unit that is discrete and identifiable with respect to compiling, combining with other units, and loading (ISO/IEC 19506)
+
+Faults vs Failures::
+* Faults are the cause, and failures are the effect
+
+Analysis vs Analytics::
+* analysis - examine the historical data, understand present and assess the gap or differences between them, includes listing and prioritizing the specific actions or tasks required to close the gap.
+* analytics - try to predict future for decision making
+
+Modeling vs Simulation::
+* referring to mathematics equation or plot diagram. e.g. f(x) = 1/x
+* referring to executable runtime program, e.g. kotlin app.
+
+Role vs Responsibility::
+* role typically encompasses a variety of duties, tasks, and responsibilities that collectively define what is expected of an individual in that position
+
+Accountability vs Responsibility::
+* accountability is outcome-oriented
+* Responsibility is task-oriented
+
+Competency vs Skill vs Disposition (based on ACM)::
+* competency - know-what (knowledge area)
+* skill - know-how
+* disposition - know-why
+
+Engineering vs Programming::
+* Engineering is a broad field that involves the application of scientific principles, mathematical methods, and empirical evidence to design, build, maintain, and improve structures, systems, devices, and processes.
+* Programming, also known as coding or software development, involves writing instructions in a programming language to enable a computer to perform a specific task or set of tasks.
+
+Architecture vs Design::
+* architecture depicts at macro level, focus on abstraction, quality attributes impacting overall system long term strategy by ADR
+* design depicts at micro level, forcing on implementation, impacting maintainability, readability by codebase
+
+Requirement vs Need::
+* Requirements are detailed specifications or criteria that describe the features, functionalities, constraints, and qualities a product, system, or project must meet to satisfy stakeholders.
+* Needs are high-level statements that express the overarching goals, desires, or problems that stakeholders aim to address or solve through a project, product, or system.
+
+Quality Assurance vs Testing::
+* Quality Assurance is a comprehensive process that focuses on preventing defects and ensuring that the entire software development life cycle (SDLC) follows best practices and standards. It is a proactive approach to quality management.
+* Testing: Testing is a specific and integral part of QA that involves executing the software with the intent of finding defects or verifying that it meets specified requirements. It is a reactive approach to ensuring software quality.
+
+Release vs Deployment::
+* release is feature made available to users
+* deployment involves transferring the software from a development or testing environment to a production environment.
+
+Product vs Project::
+* product has lifespan while project is task driven.
+
+Solution vs implementation::
+* A solution is a comprehensive answer or resolution to a problem or challenge. It involves identifying the best approach, strategy, or set of actions to achieve a desired outcome.
+* Implementation is the process of executing action outlined in the solution. It involves the practical application of ideas to achieve the desired results.
+
+POC vs MVP vs MMP::
+* POC validate the concept
+* MVP is problem solution fit but not yet product market fit
+* MMP is product market fit with revenue and profit
+
+Rationalism vs Empiricism (brooks)::
+* Reason and Logic: Rationalism in software development often involves the use of reason, logic, and mathematical methods to ensure the correctness of software. This includes formal methods and mathematical proofs to verify that the software adheres to specifications. (Plato)
+* Empirical Observation: Empiricism in market observation involves gathering data through direct observation, experimentation, and real-life experiences. It focuses on collecting factual data from the market environment. (Aristotle)
+
+Incentive vs Reward vs Recognition::
+* Incentive: An incentive is something that motivates or encourages someone to take a particular action or exhibit a specific behavior. It is typically a positive reinforcement that is linked to desired outcomes.
+* Reward: A reward is something given or received in return for good behavior, effort, or achievement. It is a positive consequence intended to reinforce positive actions.
+* Recognition: Recognition involves acknowledging and appreciating an individual's contributions, efforts, or achievements. It is a form of positive feedback that highlights the value of a person's work.
+
+Plato vs Aristotle::
+* One key difference between Plato and Aristotle lies in their views on forms or ideas. Plato believed in a world of perfect, eternal forms, separate from the physical realm, while Aristotle emphasized the importance of studying the material world to understand reality.
+
+Date Format::
+explicitly state the month and day using words rather than just numerals (e.g. "October 31, 2023" or Oct 31, 2023 --less formal). commonly put year after month, in english. put time after date, so remember "dateYeartime" DayTime Monday, June 22, 2023, 9:30 AM

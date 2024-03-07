@@ -1,0 +1,96 @@
+= Checklist
+:navtitle: Checklist
+
+Mission::
+we are executive consulting agency help close the gaps between business strategy and engineering operation by providing professional advice on the following 4 key areas:
+. establish capability roadmap, talent analysis and financial model
+. design software architecture based on IEEE body of knowledge
+. develop data platform with DataOps, MLOps and DevOps by best practices
+. govern operation with metrics and compliance in ISO standard
+
+Expertise on::
+. capability roadmap with financial model, domain LOB, valuation, priority (build vs buy)
+. budget forecast for hiring by talent role, cloud, software, opex, capex.
+. alignment plan for Goal, KPI & OKR, compensation by skill, reward by team
+. working model for POD lifecycle
+. system architecture & software design
+. devops, devsecops, dataops, MLops, finops
+
+Capability Roadmap::
+* Prioritization for in-take initiative using value vs feasibility matrix
+.. funding scope, technology blueprint
+.. compliance process
+.. R&D for AI data lake
+* create north star distribution for business valuation
+.. % on talent & leader training
+.. % on team efficiency improvement
+.. % on domain capability construction
+* create objective alignment: from operation metrics to business critical success factor
+* create capability roadmap: foundation capability, domain capability by quarter against with financial EBITDA/cash flow
+
+budget & talent plan::
+- [ ] preform talent analysis and hiring plan
+- [ ] establish career path, Job description for each technical role
+- [ ] forecast budget for cloud service, software and capex and opex.
+- [ ] forecast funding on buy vs build outsource vs build in-house
+
+Reusable Process & Technology::
+- [ ] user journey by layer: UX, Application, Backoffice, Data, Infrastructure
+- [ ] establish overall system architecture
+- [ ] define Software architecture & operation pipeline
+- [ ] define Data architecture & operation pipeline
+- [ ] define Machine Learning architecture & operation pipeline
+- [ ] define Cloud infrastructure & operation pipeline
+
+
+rewired roadmap::
+- [ ] vision, alignment, commitment
+- [ ] domain-based approach, prioritizing domain
+- [ ] build capability: foundation, scoping, partnering
+- [ ] digital roadmap as contract to c-suite
+- [ ] leaders of business line, business function
+
+talent bench::
+- [ ] resources: pod, talent analysis
+- [ ] core vs non-core capabilities: talent gap
+- [ ] talent team to build digital team
+- [ ] adjust compensation for skill
+- [ ] use tech competency marker in performance management
+- [ ] fostering craftsmanship excellence: career path, learning journeys
+
+POD agile transformation::
+- [ ] being agile pod, building blocks, product management
+- [ ] customer experience designs
+
+tech operations::
+- [ ] decoupled, automation, evolving, real-time data processing cloud native, FinOps
+- [ ] engineering practices: devops, maintainability, CI/CD, tooling
+- [ ] control, auditability, scalable, available, monitoring, observability
+- [ ] DevSecOps
+
+data management::
+- [ ] data product, data pipeline, architecture., data capability,
+- [ ] MLops: AI scaling
+
+Growth Metrics::
+- [ ] user adaption
+- [ ] replication, modularity
+- [ ] KPI
+- [ ] risk, policy, trust
+- [ ] culture
+
+Selected McKinsey Articles::
+. https://sloanreview.mit.edu/article/its-time-to-reset-the-it-talent-model/[It’s Time to Reset the IT Talent Model]
+. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/driving-business-impact-through-customer-centricity-and-digital-agility[Driving business impact through customer centricity and digital agility]
+. https://www.mckinsey.com/capabilities/mckinsey-design/our-insights/the-business-value-of-design[The business value of design]
+. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/cloud-foundations-ten-commandments-for-faster-and-more-profitable-cloud-migrations[Cloud foundations: Ten commandments for faster—and more profitable—cloud migrations]
+. https://www.mckinsey.com/capabilities/quantumblack/our-insights/scaling-ai-like-a-tech-native-the-ceos-role[Scaling AI like a tech native: The CEO’s role]
+. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/how-to-build-a-data-architecture-to-drive-innovation-today-and-tomorrow[How to build a data architecture to drive innovation—today and tomorrow]
+. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/why-digital-strategies-fail[Why digital strategies fail]
+. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/digital-transformation-on-the-ceo-agenda[Digital transformation on the CEO agenda]
+. https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/successful-transformations[Losing from day one: Why even successful transformations fall short]
+. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-new-digital-edge-rethinking-strategy-for-the-postpandemic-era[The new digital edge: Rethinking strategy for the postpandemic era]
+. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/mining-for-tech-talent-gold-seven-ways-to-find-and-keep-diverse-talent[Mining for tech-talent gold: Seven ways to find and keep diverse talent]
+
+
+

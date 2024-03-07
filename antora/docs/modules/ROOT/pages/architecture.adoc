@@ -1,0 +1,8 @@
+= Architecture
+:navtitle: Architecture
+
+.System Architecture
+image::architecture.svg[Architecture]
+
+.Migration Pattern
+image::migration.svg[Migration Pattern]
