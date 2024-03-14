@@ -1,14 +1,14 @@
+:imagesdir: ../images/
+
 = System Architecture
 :navtitle: Architecture
 
 .System Architecture (edge)
-image::../images/local.drawio.svg[Edge]
+image::local.drawio.svg[Edge]
 
 .System Architecture (cloud)
-image::../images/architecture.drawio.svg[Cloud]
+image::architecture.drawio.svg[Cloud]
 
 .Migration Pattern
-image::../images/migration.drawio.svg[Migration Pattern]
-
-
+image::migration.drawio.svg[Migration Pattern]
 
