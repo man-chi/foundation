@@ -201,3 +201,17 @@ end
 ----
 [plantuml,demo,svg,opts="inline",svg-type="inline"]
 ----
+
+== This is the priority formula rendered by MathJax:
+++++
+  <script>
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+  };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+\[
+\text{priority} = \frac{(value \times (1 - \text{risk}))}{\text{Cost}}
+\]
+
+++++

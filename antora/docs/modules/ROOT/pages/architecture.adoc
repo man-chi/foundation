@@ -1,8 +1,14 @@
 = Architecture
 :navtitle: Architecture
 
-.System Architecture
-image::architecture.svg[Architecture]
+.System Architecture (local)
+image::../images/misars.drawio.svg[MisaRS]
+
+.System Architecture (cloud)
+image::../images/architecture.svg[Architecture]
 
 .Migration Pattern
-image::migration.svg[Migration Pattern]
+image::../images/migration.svg[Migration Pattern]
+
+
+
