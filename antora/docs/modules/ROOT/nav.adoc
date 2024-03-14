@@ -6,6 +6,7 @@
 * xref::[SWEBOK]
 ** xref:requirements.adoc[Requirements]
 ** xref:architecture.adoc[Architecture]
+** xref:construction.adoc[Construction]
 * xref::[Dev Tools]
 ** xref:devtool/git.adoc[Git]
 ** xref:devtool/unix.adoc[Unix]
