@@ -1,1 +1,1 @@
-https://docs.waxc.tech/en/latest/main/index.html[visit live demo on readthedocs]
+https://waxc.readthedocs.io/en/latest/main/index.html[visit live demo on readthedocs]
