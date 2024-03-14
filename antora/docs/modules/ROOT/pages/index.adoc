@@ -5,7 +5,7 @@
 {description}
 
 .Body of Knowledge Metamodel
-image::bok.svg[Metamodel]
+image::bok.svg[Bok Metamodel]
 
 [%autowidth,cols="a,a,a"]
 |===
