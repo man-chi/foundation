@@ -5,7 +5,7 @@ content:
   sources:
 # uncomment the following lines for local file source
 # -   url: .
-  - url: https://github.com/man-chi/core.git
+  - url: https://github.com/man-chi/foundation.git
     start_paths:
     - antora/docs
     branches: HEAD
