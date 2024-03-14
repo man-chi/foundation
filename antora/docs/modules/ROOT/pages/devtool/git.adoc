@@ -6,76 +6,48 @@
 - conflict resolution
 - commit message best practices
 
-.`.editorconfig`
-[soure]
-----
-root = true
-
-# The following settings match to AsciiDoc content by its filename
-[*]
-# Ensure that content is UTF-8 encoded
-charset = utf-8
-# No line should contain trailing whitespace
-trim_trailing_whitespace = true
-# Ensure a newline at the end of each file
-insert_final_newline = true
-
-max_line_length = 120
-
-indent_size = 4
-
-end_of_line = lf
-----
-
-.`.gitignore`
-[source]
-----
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
-/.idea/
-
-# Ignore Gradle project-specific cache directory
-.gradle
-
-# Ignore Gradle build output directory
-build
-
-/antora/node_modules/
-/antora/.cache/
-----
-
-== module setup
+== create a New Module
 * checkout antora template from https://github.com/man-chi/example-antora-basic[repo]
-* in /core directory , create subdir for module e.g. `kt-module-basic`
+* in /main-project directory , create subdir for module e.g. `kt-module-basic`
 * open gradle panel, add kt project
 
-== theme
-* https://plugins.jetbrains.com/plugin/12124-material-theme-ui-lite[material darker ui lite (free)]
+== Create a Feature Branch (gitflow):
+From the main branch (or develop if you follow Gitflow), pull the latest changes: `git checkout main && git pull.`
+Create a new branch for your feature: `git checkout -b feature/my-new-feature.`
 
-== intellij performance tuning
-* help > edit custom vm option: from -Xmx1774m to  -Xmx4096m
-* file >  invalidaet caches
-* file > project structure > SDK > turmine 21
-* reduce num of module, do not mix python with jvm
+== Develop Your Feature:
+Make your changes in the feature branch.
+Commit your changes with meaningful commit messages: git commit -m "Add a specific change detail".
+
+== Keep Your Branch Updated:
+Regularly rebase or merge updates from the main branch to keep your feature branch up to date and to minimize merge conflicts: `git fetch origin && git rebase origin/main.`
+
+== Push Your Branch:
+Push your feature branch to the remote repository: `git push -u origin feature/my-new-feature.`
+
+== Create a Pull Request (PR):
+Go to the repository on the hosting service (e.g., GitHub, GitLab, Bitbucket) and create a new pull request for your branch.
+Clearly describe the changes and the purpose of the feature.
+Link any relevant issues or documentation in the PR description.
+
+== Code Review:
+Request reviews from your teammates or maintainers.
+Respond to comments and feedback.
+Make any necessary changes and update the PR by pushing additional commits.
+
+== Automated Checks:
+Ensure that automated checks (like CI/CD pipelines, code linters, and tests) pass.
+If checks fail, fix the issues and update the PR.
+
+== PR Approval:
+Once your PR is approved by the reviewers and all checks pass, it's ready to be merged.
+If your repository requires it, make sure your branch has the required number of approvals.
+
+== Merge the PR:
+Before merging, ensure your branch is up to date with the base branch (usually main or develop).
+Use the repository's interface to merge the PR, often with options like "Merge", "Squash and merge", or "Rebase and merge" depending on the project's merge policy.
+Delete the feature branch from the remote repository after the merge, if the platform doesn't do it automatically.
+
+== Post-Merge:
+Pull the changes into your local main branch: git checkout main && git pull.
+Delete the local feature branch if you no longer need it: `git branch -d feature/my-new-feature.``

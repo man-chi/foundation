@@ -16,7 +16,6 @@ Metric 3: Bug resolution time::
 * Bug severity distribution, bug assignments, bug reporting frequency: These metrics give clues about the quality of your code. A disproportionate number of high-priority bugs is a signal of poor code quality. Or it might be a sign of the quality of the bug reports themselves. Are bugs clearly reported and reproducible? Do they contain sufficient information for a developer to work from?
 * Defect resolution efficiency (DRE): To pinpoint which part of your process is causing more defects, consider DRE. It’s a more sophisticated set of metrics than just time between detection and resolution. DRE measures the percentage of defect resolutions between different phases of development. DRE is a good prevention tool: the sooner you find and resolve a defect, the less it costs your organization.
 
-
 Metric 4: Code reviews::
 * Response time for code reviews: How long does it take before a teammate responds to a PR? Does your team’s workflow allow a developer to work on other issues while waiting for a PR? How do team leads, managers, or product owners manage assignments for code reviews?
 * Number of comments per review, ratio of accepted and rejected code changes: These metrics give clues to the quality of the reviews.
@@ -30,10 +29,6 @@ Metric 5: Deployment frequency::
 * E: Change Failure Rate
 * L: Lead Time for Changes
 * F: Deployment Frequency
-
-
-
-
 
 reference::
 https://coder.com/blog/elevating-developer-experience[developer experience]

@@ -1,8 +1,5 @@
 = Modern Unix
 :navtitle: modern unix
-:description: common unix commands
-
-{description}
 
 == Modern Unix command
 

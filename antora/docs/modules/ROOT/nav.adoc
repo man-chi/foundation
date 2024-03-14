@@ -1,9 +1,11 @@
-* xref:motivation.adoc[Motivation]
-* xref:checklist.adoc[check List]
-* xref:architecture.adoc[Architecture]
+* xref:about-waxc.adoc[About WAXC]
 * xref:definition.adoc[Definition]
-* xref:requirements.adoc[Requirements]
+* xref:motivation.adoc[Motivation]
+* xref:capability.adoc[Capability]
 * xref:metrics.adoc[Metrics]
+* xref::[SWEBOK]
+** xref:requirements.adoc[Requirements]
+** xref:architecture.adoc[Architecture]
 * xref::[Dev Tools]
 ** xref:devtool/git.adoc[Git]
 ** xref:devtool/unix.adoc[Unix]
@@ -12,8 +14,8 @@
 ** xref:asciidoc/kroki.adoc[Kroki]
 ** xref:asciidoc/vega.adoc[Vega]
 ** xref:asciidoc/c4model.adoc[C4 Model]
-* xref::contributors.adoc[Credits]
-
+** xref:asciidoc/reveal.adoc[Reveal.js]
+* xref:contributors.adoc[Credits]
 
 
 

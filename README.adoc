@@ -1,1 +1,1 @@
-https://waxc.readthedocs.io/en/latest/main/index.html[visit live demo on readthedocs]
+for main documentation, visit antora/docs/modules/ROOT/pages/index.adoc

@@ -1,12 +1,11 @@
-= System Architecture
+= Software Architecture
 :navtitle: Architecture
 
-.System Architecture (edge)
-image::local.drawio.svg[Edge]
+.System Architecture - Edge
+image::edge.drawio.svg[Edge]
 
-.System Architecture (cloud)
+.System Architecture - Cloud
 image::architecture.drawio.svg[Cloud]
 
 .Migration Pattern
 image::migration.drawio.svg[Migration Pattern]
-
