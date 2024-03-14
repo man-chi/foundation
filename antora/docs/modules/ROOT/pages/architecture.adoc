@@ -1,5 +1,5 @@
-= Architecture
-:navtitle: System Architecture
+= System Architecture
+:navtitle: Architecture
 
 .System Architecture (edge)
 image::../images/local.drawio.svg[Edge]
