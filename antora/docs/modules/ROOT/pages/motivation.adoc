@@ -1,18 +1,43 @@
 = Motivation
 :navtitle: Motivation Model
 
+== Team Core Values
+Be AI-native in Every endeavor::
+every endeavor is guided by the transformative power of Artificial Intelligence in the medical domain.
+We are committed to being AI-first in all aspects of our work, embodying innovation, efficiency, and precision.
+
+Be generous to help::
+This value emphasizes the importance of generosity in coaching and mentoring others.
+It suggests a willingness to share knowledge, provide guidance, and foster a collaborative learning environment.
+
+Be transparent to escalate::
+This value promotes transparency in communication when escalating issues.
+Team members should openly and honestly communicate problems or challenges to the appropriate stakeholders, enabling timely resolution.
+
+Be focused on priority::
+This value highlights the need for maintaining focus on priorities.
+It encourages team members to identify and concentrate on the most important tasks or goals, ensuring efficient use of time and resources.
+
+Candidate Criteria::
+. technical competency
+. culture fit
+. conflict consensus
+
+Open Company Culture::
+https://handbook.sourcegraph.com/[SourceGraph handbook]
+
 == Problem Statement
 
-huge disruption happened in past 5 years, due to pandemic, trade war, military war and AI adaption.
+huge disruption happened in the past 5 years, due to pandemics, trade wars, military wars, and AI adaptation.
 
 Statistics::
-The software industry has been in crisis since 1970s According to the Standish Group's CHAOS Report in 2018, only 29% of software projects were deemed successful, while 52% were considered over budget or delayed, and 19% were outright failures (abandoned or not used).
+The software industry has been in crisis since the 1970s According to the Standish Group's CHAOS Report in 2018, only 29% of software projects were deemed successful, while 52% were considered over budget or delayed, and 19% were outright failures (abandoned or not used).
 
 Root Cause Analysis::
-. Intent: setup for failure: unclear or even confused on external force of stakeholders, outcome, strategy and business model, leading incorrect goal setting and KPI.
+. Intent: setup for failure: unclear or even confused on the external force of stakeholders, outcome, strategy, and business model, leading to incorrect goal setting and KPI.
 . Design: failed before execution: conceptual business strategy is not concrete and realizable for technical execution. enterprise architecture required to bridge the huge gap.
-. Process: too much focus on technology, tooling and programming language; dev team should focus on design, process, capability and governance.
-. Measure: software developers spend up to 42% of work week dealing with technical debt and bad code. code quality measurement is required to provide transparency on complexity, allowing leadership to define policy, assess cost of delay and weighted shortest job first
+. Process: too much focus on technology, tooling, and programming language; the dev team should focus on design, process, capability, and governance.
+. Measure: software developers spend up to 42% of their workweek dealing with technical debt and bad code. code quality measurement is required to provide transparency on complexity, allowing leadership to define policy, assess cost of delay and weigh the shortest job first
 
 Biggest Challenges::
 . volatility
@@ -68,15 +93,15 @@ Key Result 3: Conduct workshops or training sessions on code quality best practi
 
 Ecosystem & Pressure (STEEPL)::
 business must be designed to be agile due to natural uncertainty:
-. Social: code complexity reflects aspect of social activities
-. Technological: artificial intelligence has advanced as norm
-. Economical: business are greatly depending on software
+. Social: code complexity reflects aspects of social activities
+. Technological: artificial intelligence has advanced as the norm
+. Economical: Businesses greatly depend on software
 . Environmental: expecting more energy saving from code efficiency
 . Political: code analysis for trade sanction
 . Legal: as powerful tool in due diligence and M&A
 
 Stakeholder(DRIVER) Analysis::
-capture, create, deliver values to these drivers (direct & indirect interests)!!
+capture, create, and deliver values to these drivers (direct & indirect interests)!!
 . customers
 . supplier
 . employee
@@ -85,38 +110,46 @@ capture, create, deliver values to these drivers (direct & indirect interests)!!
 . competitor
 . enterprise
 
+EEE Example::
 |===
 |Stakeholder |Exchange (I/O) |Expectation |Experience |KPI
 
 |consumer
 |online services
 |no errors in transaction
-|easy way to transact
+| Easy way to transact
 |< 3% error rate
 |===
 
-== Team Core Values
 
-Be AI-native in Every endeavor::
-every endeavor is guided by the transformative power of Artificial Intelligence in the medical domain.
-We are committed to being AI-first in all aspects of our work, embodying innovation, efficiency, and precision.
+== Developer Experience (DX)
 
-Be generous to help::
-This value emphasizes the importance of generosity in coaching and mentoring others.
-It suggests a willingness to share knowledge, provide guidance, and foster a collaborative learning environment.
+Metric 1: Onboarding time::
+* Time to first commit to production: From their first day, how long does it take a new developer to commit code that goes to production?
+* Velocities of other teammates: You might also notice that a team’s velocity slows down when it takes on a new teammate.
 
-Be transparent to escalate::
-This value promotes transparency in communication when escalating issues.
-Team members should openly and honestly communicate problems or challenges to the appropriate stakeholders, enabling timely resolution.
+Metric 2: Inner loop optimization::
+* Time to first file open: How long does a developer wait after opening their IDE before they can start editing a file?
+* Build time: How long does it take to build a project?
 
-Be focused on priority::
-This value highlights the need for maintaining focus on priorities.
-It encourages team members to identify and concentrate on the most important tasks or goals, ensuring efficient use of time and resources.
+Metric 3: Bug resolution time::
+* Time between defect detection and resolution: This is a simplistic metric, to be sure. Still, a team with a decelerating bug resolution time is a sign of trouble.
+* Bug severity distribution, bug assignments, bug reporting frequency: These metrics give clues about the quality of your code. A disproportionate number of high-priority bugs is a signal of poor code quality. Or it might be a sign of the quality of the bug reports themselves. Are bugs clearly reported and reproducible? Do they contain sufficient information for a developer to work from?
+* Defect resolution efficiency (DRE): To pinpoint which part of your process is causing more defects, consider DRE. It’s a more sophisticated set of metrics than just time between detection and resolution. DRE measures the percentage of defect resolutions between different phases of development. DRE is a good prevention tool: the sooner you find and resolve a defect, the less it costs your organization.
 
-Candidate Criteria::
-. technical competency
-. culture fit
-. conflict consensus
+Metric 4: Code reviews::
+* Response time for code reviews: How long does it take before a teammate responds to a PR? Does your team’s workflow allow a developer to work on other issues while waiting for a PR? How do team leads, managers, or product owners manage assignments for code reviews?
+* Number of comments per review, ratio of accepted and rejected code changes: These metrics give clues to the quality of the reviews.
 
-Open Company (reference)::
-https://handbook.sourcegraph.com/[SourceGraph handbook]
+Metric 5: Deployment frequency::
+* Deployment frequency: This is an obvious one, but it still helps to understand the nature of your deployments. What is the historical average time to deploy? For example, can your team promise monthly deployments if it averages 12 deployments in a year? Or can it deploy on the 1st of every month for a year?
+* Success/failure rate of deployments: How often are deployments rolled back or re-deployed because of an incident? This is another obvious one, but it gives a clue to how well your teams are collaborating and detects early signs of weaknesses.
+
+== The important metrics defined by DORA (DevOps Research and Assessment) include:
+* R: Mean Time to Restore (MTTR)
+* E: Change Failure Rate
+* L: Lead Time for Changes
+* F: Deployment Frequency
+
+reference::
+https://coder.com/blog/elevating-developer-experience[developer experience]

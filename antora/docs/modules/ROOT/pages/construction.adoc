@@ -1,7 +1,7 @@
 = Construction
 :navtitle: Construction 
 
-== 6 Major Programming Languages
+== 6 Key Programming Languages
 
 [graphviz]
 ....
