@@ -13,5 +13,11 @@
             "command": "dotnet test",
             "problemMatcher": []
         }
+        {
+            "label": "run",
+            "type": "shell",
+            "command": "dotnet run --project ./PrimeService/PrimeService.csproj",
+            "problemMatcher": []
+        }
     ]
 }

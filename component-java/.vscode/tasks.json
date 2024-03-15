@@ -11,6 +11,13 @@
             "label": "test",
             "type": "shell",
             "command": "mvn test",
-            "problemMatcher": []}
+            "problemMatcher": []
+        },
+        {
+            "label": "run",
+            "type": "shell",
+            "command": "mvn exec:java",
+            "problemMatcher": []
+        }
     ]
 }

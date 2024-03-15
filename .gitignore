@@ -43,3 +43,4 @@ __MACOSX/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+.mono/

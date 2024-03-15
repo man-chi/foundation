@@ -34,6 +34,23 @@
           </includes>
         </configuration>
       </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.1</version> <!-- Use the appropriate version -->
+        <configuration>
+          <source>1.8</source> <!-- Use your Java version -->
+          <target>1.8</target> <!-- Use your Java version -->
+        </configuration>
+      </plugin>
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>exec-maven-plugin</artifactId>
+        <version>3.0.0</version> <!-- Use the appropriate version -->
+        <configuration>
+          <mainClass>com.example.App</mainClass> <!-- Replace with your main class -->
+        </configuration>
+      </plugin>
     </plugins>
   </build>
 </project>
