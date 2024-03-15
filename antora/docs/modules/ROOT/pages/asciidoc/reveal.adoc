@@ -1,16 +1,15 @@
-:revealjs_theme: moon
+:revealjs_theme: beige
 = asciidoc slides extension
 
 == Images
 
 [source, asciidoc]
 --
-image::reveal-parallax-1.jpg[revealjs]
+image::../images/reveal-parallax-1.jpg[revealjs]
 --
-
 results in:
-
-image::reveal-parallax-1.jpg[revealjs]
+image::../images/reveal-parallax-1.jpg[revealjs]
+//image::reveal-parallax-1.jpg[revealjs]
 
 === Background Images
 
