@@ -1,1 +1,1 @@
-for main documentation, visit antora/docs/modules/ROOT/pages/index.adoc
+for main documentation, visit `antora/docs/modules/ROOT/pages/index.adoc`
