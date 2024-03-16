@@ -1,6 +1,7 @@
-= Body of Knowledge
-:navtitle: Body of Knowledge
-:description: Aligning each of the frameworks with relationship and purpose.
+= Research Paper
+:navtitle: Research Paper
+:description: Research Paper: The Convergence of Design and Metrics: Proposing a Metamodel for Software Engineering Excellence
+
 
 {description}
 
