@@ -215,3 +215,15 @@ end
 \]
 
 ++++
+
+== antora image preview in vscode
+* vscode-asciidoc extension > settings > 
+* asciidoc >preview : asciidoctor attributes¬¬
+
+.Edit in settings.json
+[source, json]
+----
+  "asciidoc.preview.asciidoctorAttributes": { ¬
+    "imagesdir":"../images/"
+  }
+----

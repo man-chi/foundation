@@ -5,10 +5,12 @@
 
 [source, asciidoc]
 --
-image::../images/reveal-parallax-1.jpg[revealjs]
+image::reveal-parallax-1.jpg[revealjs]
 --
 results in:
+
 image::reveal-parallax-1.jpg[revealjs]
+
 
 === Background Images
 

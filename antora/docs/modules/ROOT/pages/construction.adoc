@@ -23,8 +23,10 @@ digraph finite_state_machine {
 }
 ....
 
-== Kotlin
+== Kotlin (JVM)
 * using seal class & arrow's either to achieve Union type like TS
+* gradle 8.4 only support jdk 20
+* use temurin-20 
 
 == Typescript
 
@@ -110,3 +112,15 @@ let nullableString: string | null = "Hello";
 prototype-based OO vs interface-based OO::
 * prototype-based OO: class (js)
 * interface-based OO: interface (ts/java)
+
+== C Sharp TDD practices
+* use template to create class lib
+* add service csproject to solution
+* use template to create xunit project
+* add service reference to xunit test project
+* add service cs project to solution
+
+Reference::
+https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test
+
+
