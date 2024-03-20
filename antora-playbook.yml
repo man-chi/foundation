@@ -27,6 +27,7 @@ ui:
 asciidoc:
   extensions:
     - asciidoctor-kroki
+    - asciidoctor-mathematical
     # Antora will resolve extensions listed here that end with something that looks like a file name extension as files relative to the project's folder
     # therefore append the slash
   attributes:
