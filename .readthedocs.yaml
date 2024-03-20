@@ -7,5 +7,5 @@ build:
     nodejs: "20"
   commands:
     # Commands from https://docs.antora.org/antora/latest/install-and-run-quickstart/
-    - npm install antora asciidoctor-kroki asciidoctor-mathematical @antora/lunr-extension
+    - npm install antora asciidoctor-kroki @antora/lunr-extension
     - npx -y antora --fetch --to-dir $READTHEDOCS_OUTPUT/html antora-playbook.yml
