@@ -1,24 +1,13 @@
 = Requirement
-:navtitle: 
-:stem: latexmath
+:nav title: Requirement
 
-stem:[sqrt(4) = 2]  
-
-latexmath:[C = \alpha + \beta Y^{\gamma} + \epsilon]
-
-.An e-xciting limit with LaTeX!
-[stem]
+== Priority Formulation
 ++++
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+\[
 \text{priority} = \frac{(value \times (1 - \text{risk}))}{\text{Cost}}
+\]
 ++++
-
-.A basic square root with AsciiMath
-[asciimath]
-++++
-sqrt(4) = 2
-++++
-
-
 
 Software Requirements (SR) introduces the fundamentals of software requirements, emphasizing the importance of defining what software should do to meet the needs of users and stakeholders effectively. SR covers several key areas, including the definition and categorization of software requirements, distinctions between software product and project requirements, as well as functional and nonfunctional requirements. It also discusses technology and quality of service constraints, the rationale behind categorizing requirements, and the relationship between system requirements and software requirements.
 

@@ -5,8 +5,44 @@ Software Architecture (SA) emphasizes the fundamental concepts, representation, 
 
 SA also delves into the description of software architecture, detailing architecture views and viewpoints, styles, and patterns, description of languages and frameworks, and architecture as significant decisions. Moreover, it covers the software architecture process, which includes context, design, methods, and tactics, and architecting on a larger scale. The evaluation of software architecture is addressed, focusing on assessing the goodness of architecture, reasoning about architectures, conducting architecture reviews, and measuring architectural metrics.
 
+== Layered Architecture 
 .System Architecture - Cloud
 image::architecture.drawio.svg[Cloud]
 
-.Microservice Pattern - Strangler 
+Each layer in a software architecture by layers has a specific set of functionality and objectives. Here’s a brief overview of each layer:
+
+. Presentation layer - This layer is responsible for presenting the data to the user. It handles user input, displays data in a user-friendly format, and interacts with the user interface. The objective of this layer is to provide a seamless user experience.
+
+. Domain service layer - This layer contains the business logic of the application. It is responsible for processing data, implementing rules, and enforcing policies. The objective of this layer is to ensure that the application functions according to the business requirements.
+
+. Data storage layer - This layer is responsible for data storage and retrieval. It interacts with the database management system to store and retrieve data. The objective of this layer is to ensure that the application can efficiently handle large amounts of data.
+
+. Machine learning layer - This layer is responsible for implementing machine learning algorithms in the application. It provides predictive and prescriptive analytics capabilities to the application. The objective of this layer is to improve application performance and provide insights to the business.
+
+. Integration layer - This layer is responsible for integrating the application with other systems. It provides a way for the application to communicate with external systems, such as third-party APIs. The objective of this layer is to ensure seamless integration with other systems.
+
+By dividing the application into different layers, each with its own specific functionality and objectives, software architecture by layers provides a way to manage complexity and ensure efficient development and maintenance.
+
+
+== Microservice Pattern - Strangler 
+.Strangler Pattern
 image::migration.drawio.svg[Migration Pattern]
+
+The strangler pattern is an incremental approach to refactoring a monolithic application into a microservices architecture. The pattern works by gradually creating new microservices around the legacy application, allowing the old and new architectures to co-exist. Over time, functionality is moved from the monolith into the new services until the monolith can be retired completely.
+
+Some key characteristics of the strangler pattern:
+
+- New services are built around the legacy application using APIs
+- The monolith and services can operate independently
+- Functionality is incrementally migrated from monolith to services
+- The legacy application is "strangled" over time as services take over its capabilities
+
+Benefits of the strangler pattern:
+
+- Lower-risk approach to microservices migration
+- Allows incremental transition rather than big bang rewrite
+- New services can leverage latest technologies and patterns
+- The legacy system can be maintained during transition
+
+The strangler pattern provides a low risk way to migrate monolithic apps to a more scalable, maintainable microservices architecture over time.
+
