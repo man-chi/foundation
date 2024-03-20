@@ -7,6 +7,7 @@
 ** xref:architecture.adoc[Architecture]
 ** xref:construction.adoc[Construction]
 * xref::[Dev Tools]
+** xref:agile.adoc[Agile]
 ** xref:devtool/git.adoc[Git]
 ** xref:devtool/unix.adoc[Unix]
 * xref::[Docs as Code]

@@ -1,11 +1,12 @@
 = Software Architecture
 :navtitle: Architecture
 
-.System Architecture - Edge
-image::edge.drawio.svg[Edge]
+Software Architecture (SA) emphasizes the fundamental concepts, representation, processes, methods, and evaluation of software architecture. The evolution and importance of software architecture is a distinct discipline due to its growth since the 1990s. SA covers the multiple senses of "architecture" in software engineering, including the discipline itself, the processes to realize it, and the outcomes of applying architectural design discipline and processes. SA outlines the stakeholders and concerns associated with software architecture, emphasizing the variety of interests and roles stakeholders have concerning the system.
+
+SA also delves into the description of software architecture, detailing architecture views and viewpoints, styles, and patterns, description of languages and frameworks, and architecture as significant decisions. Moreover, it covers the software architecture process, which includes context, design, methods, and tactics, and architecting on a larger scale. The evaluation of software architecture is addressed, focusing on assessing the goodness of architecture, reasoning about architectures, conducting architecture reviews, and measuring architectural metrics.
 
 .System Architecture - Cloud
 image::architecture.drawio.svg[Cloud]
 
-.Migration Pattern
+.Microservice Pattern - Strangler 
 image::migration.drawio.svg[Migration Pattern]

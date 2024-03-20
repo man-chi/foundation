@@ -1,0 +1,58 @@
+= Agile Methodology
+:navtitle: Agile Methodology
+
+== Guideline for Writing Tasks:
+. Title: Start with a descriptive and succinct title that summarizes the task’s objective or goal.
+Example:: "Implement User Registration Form"
+. Description: Provide a detailed description of the task, including what needs to be done, any relevant background information, and the expected outcome.
+Example:: "Develop a user registration form that collects user information such as name, email, and password. Upon submission, the form should validate the inputs and store the user data in the database."
+. Acceptance Criteria: List the specific conditions or criteria that need to be met for the task to be considered complete.
+
+Example::
+- User should be able to input their name, email, and password in the registration form.
+- Form should validate the email field to ensure it is in the correct format.
+- Upon successful completion, user data should be stored in the database.
+
+. Assignee and Due Date: Assign the task to the appropriate team member and set a due date for completion.
+. Priority and Labels: Set the priority level for the task (e.g., high, medium, low) and add relevant labels if applicable (e.g., frontend, backend, bug).
+. Dependencies: Specify if the task is dependent on any other tasks or requires input from a different team member.
+. Attachments: Include any necessary attachments, such as design mockups or supporting documents, to provide additional context for the task.
+. Additional Comments: If there are any additional instructions, comments, or discussions related to the task, add them as comments below the task description.
+
+== Guideline for Writing User Stories:
+. Start with the user: User stories are meant to prioritize the needs and experiences of the users. Always focus on the user as the main character in the story.
+Example:: As a user, I want to be able to easily access my account information.
+
+. Use a simple and concise format: User stories should follow a specific format, known as the “As a/ I want/ So that” format. This format ensures clarity and consistency.
+Example:: As a customer, I want to be able to track the status of my order, so that I can know when it will be delivered.
+
+. Keep the stories small and manageable: User stories should be small and contain specific requirements that can be completed within a single iteration or sprint.
+Example:: As a website visitor, I want to be able to search for products by category, so that I can find items more easily.
+
+. Focus on the value and outcome: User stories should clearly convey the value or benefit that the user will gain by having the specific feature or functionality.
+Example:: As a manager, I want to be able to generate sales reports, so that I can analyze the performance of my team.
+
+. Specify acceptance criteria: Acceptance criteria are measurable conditions that must be met for a user story to be considered complete. Be clear and specific when listing these criteria.
+Example:: As a social media user, I want to be able to delete my posts, so that I can remove any content that I no longer want to be visible. Acceptance criteria: - Users can only delete their own posts, not posts from other users. - Deleted posts should be permanently removed from the system.
+
+. Involve stakeholders and development team: Collaborate with stakeholders and the development team to gather requirements, clarify details, and ensure that everyone is aligned on the user stories.
+Example:: As a product owner, I want to collaborate with the development team to refine and prioritize user stories before each sprint.
+Remember, user stories should be written in a way that is easily understandable and relatable to all team members involved in the development process. They should capture the essence of the user’s needs, expectations, and desired outcomes.
+
+== FAQ: Compare Task vs User Story.
+Task Ticket::
+A task is a specific action or objective that needs to be accomplished. It is typically a smaller and more detailed unit of work that contributes to the completion of a larger goal or project. Tasks often have a clear and concrete outcome or deliverable. They are typically assigned to individuals or teams and are often time-bound, meaning they have a specific deadline.
+- Example:: "Design a logo for the company website."
+
+User Story Ticket::
+A user story ticket is a description of a feature or functionality from the perspective of the end user. It is a way for stakeholders, developers, and designers to communicate and understand the desired outcome or behavior of a software system. User story tickets often follow a specific format: “As a [type of user], I want [a goal or desired outcome], so that [reason or benefit].”
+- Example:: "As a registered user, I want to be able to change my password, so that I can ensure the security of my account."
+
+Comparison::
+- Level of Detail: A task is often more specific and detailed, focusing on the specific actions required to achieve a goal. User story tickets, on the other hand, are more high-level and focused on the end result or behavior desired by the user.
+- Perspective: Tasks are typically written from the perspective of the team or individual responsible for completing them. User story tickets are written from the perspective of the user who will be interacting with the feature or functionality.
+- Deliverable: Tasks often have a clear and tangible deliverable, while user story tickets describe desired outcomes or behaviors.
+- Communication: User story tickets are a way to communicate requirements and expectations between stakeholders, developers, and designers. Tasks are often used for internal project management and assignment purposes.
+
+In summary::
+Tasks and user stories serve different purposes and have different levels of detail. Tasks belong to stories. Tasks focus on the specific actions needed to achieve a goal, while user story describe desired outcomes or behaviors from the user’s perspective.

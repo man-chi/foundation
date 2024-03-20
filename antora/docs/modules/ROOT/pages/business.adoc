@@ -3,9 +3,9 @@ At waxc.tech, we provide professional advice to executives, bridging the gaps be
 Our goal is to help our clients achieve their business objectives and enhance their technical capabilities.
 
 About Us::
-waxc.tech is an engineering consulting agency that was founded by a team of experienced engineers who recognized the need for a truly integrated approach to engineering consulting.
-Our team brings together diverse expertise in business strategy, engineering, and operations to provide our clients with comprehensive solutions to their most complex challenges.
-We are committed to delivering high-quality services that exceed our clients' expectations.
+    waxc.tech is an engineering consulting agency that was founded by a team of experienced engineers who recognized the need for a truly integrated approach to engineering consulting.
+    Our team brings together diverse expertise in business strategy, engineering, and operations to provide our clients with comprehensive solutions to their most complex challenges.
+    We are committed to delivering high-quality services that exceed our clients' expectations.
 
 Experienced leadership::
 Our team is made up of seasoned professionals with extensive experience in engineering consulting.
