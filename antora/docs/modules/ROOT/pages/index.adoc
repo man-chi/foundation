@@ -8,66 +8,11 @@
 .Body of Knowledge Metamodel
 image::bok.drawio.svg[BoK Metamodel]
 
-[%autowidth,cols="a,a,a"]
-|===
-|Body of Knowledge |Organization |Knowledge Area
 
-|Software Engineering (SWEBOK V4 Public Review)
-|IEEE (since 2004)
-|
+== link:ieee.org/about/ieee-standards/standards-technology/swebok/[IEEE Software Engineering Body of Knowledge]
+SWEBOK V4 is an updated guide developed to reflect the current state, practices, and knowledge areas in the field of software engineering. It serves as a comprehensive framework that outlines the universally accepted knowledge areas within the software engineering discipline, aiming to provide guidance for professionals, educators, and learners about the core areas of software engineering knowledge. This guide is published by the IEEE Computer Society and represents the collective understanding and consensus on what constitutes the field of software engineering. 
 
-. Requirement
-. Architecture
-. Design
-. Construction
-. Testing
-. Operations
-. Maintenance
-. Configuration Management
-. Management
-. Process
-. Models and Methods
-. Quality
-. Security
-. Professional Practice
-. Economics
-. Foundation: Computing, Math, Eng
 
-|Data Management (DAMA V2)
-|Data Management Association International since 1980
-| DAMA Wheel:
-
-. Architecture
-. Modeling & Design
-. Data Storage & Operations
-. Security
-. Integration & Interoperability
-. Doc & Content Management
-. Master Data Management
-. Data Warehousing & BI
-. Metadata
-. Quality
-
-|Tech Operation
-| IT4IT
-| 7 IT4IT Value Streams:
-
-. Evaluate
-. Explore
-. Integrate
-. Deploy
-. Release
-. Consume
-. Operate
-
-Digital Product Life Cycle:
-
-. Strategy to Portfolio
-. Requirement to Deploy
-. Request to fulfill
-. Detect to Correct
-. Supporting
-|===
 
 
 

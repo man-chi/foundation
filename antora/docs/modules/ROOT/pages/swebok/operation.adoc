@@ -1,0 +1,24 @@
+= Software Engineering Operation
+:navtitle: Software Engineering Operation
+
+Software Engineering Operations (SO) dives into the multifaceted nature of operational activities within software engineering, emphasizing their significance for deploying, operating, and supporting software systems while maintaining their integrity and stability. SO presents the knowledge, skills, processes, and tools employed by software engineers to ensure that both the software product and its underlying IT infrastructure perform optimally throughout development, maintenance, and actual operational conditions.
+
+Software Engineering Operations Fundamentals::
+It defines software engineering operations and distinguishes between the roles of operations engineers and software engineers in the context of developing and offering operational services. This includes provisioning, deploying, configuring, supporting, and monitoring various aspects of software and IT infrastructure to ensure optimal operation.
+
+Software Engineering Operations Processes::
+The guide elaborates on the core processes associated with software engineering operations, as defined by ISO/IEC/IEEE standards. It categorizes these into planning, control, and delivery processes, highlighting the essential tasks and activities required to ensure the effective operation of software systems.
+
+Operations Planning and Supplier Management::
+Detailed attention is given to the planning phase, emphasizing the importance of resource estimation, development of concept documents, operations, and maintenance plans. It also addresses the management of suppliers and the critical role they play in providing quality services.
+
+Operational Testing, Verification, and Acceptance::
+The guide discusses the significance of operational testing and verification, underlining the adoption of test-driven development (TDD) and acceptance test-driven development (ATDD) to ensure ongoing operational testing throughout the software development lifecycle.
+
+Deployment/Release Engineering::
+It focuses on the deployment and release of software, stressing the importance of continuous integration and delivery practices to enhance the efficiency of software engineering operations.
+
+Tools::
+the tools crucial for automating and efficiently conducting development, maintenance, and operations-related tasks. This includes container/virtualization technologies, deployment management tools, automated testing tools, and monitoring and telemetry tools, all of which play a pivotal role in maximizing the efficient use of personnel and improving software quality and reliability.
+
+In essence, SO covers the integral components of software engineering operations, from the fundamental concepts and processes to practical considerations and the tools that support these activities. It underscores the evolving role of software engineers in operations within the contexts of DevOps, Infrastructure as Code (IaC), and Agile infrastructure practices, highlighting the shift towards more integrated and automated operational tasks.

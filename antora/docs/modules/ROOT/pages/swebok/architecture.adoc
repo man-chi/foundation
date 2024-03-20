@@ -41,8 +41,11 @@ Benefits of the strangler pattern:
 
 - Lower-risk approach to microservices migration
 - Allows incremental transition rather than big bang rewrite
-- New services can leverage latest technologies and patterns
-- The legacy system can be maintained during transition
+- New services can leverage the latest technologies and patterns
+- The legacy system can be maintained during the transition
 
-The strangler pattern provides a low risk way to migrate monolithic apps to a more scalable, maintainable microservices architecture over time.
+The strangler pattern provides a low-risk way to migrate monolithic apps to a more scalable, maintainable microservices architecture over time.
 
+See Also::
+https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)[Hexagonal Architecture]
+https://adr.github.io/[Architecture Decision Records]

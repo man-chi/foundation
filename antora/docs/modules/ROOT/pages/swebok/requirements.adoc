@@ -1,6 +1,5 @@
 = Requirement
 :nav title: Requirement
-:stem: asciimath
 
 == Priority Formulation
 ++++
@@ -10,19 +9,15 @@
 \]
 ++++
 
-[asciimath]
-++++
-sqrt(4) = 2
-++++
-
-
 Software Requirements (SR) introduces the fundamentals of software requirements, emphasizing the importance of defining what software should do to meet the needs of users and stakeholders effectively. SR covers several key areas, including the definition and categorization of software requirements, distinctions between software product and project requirements, as well as functional and nonfunctional requirements. It also discusses technology and quality of service constraints, the rationale behind categorizing requirements, and the relationship between system requirements and software requirements.
 
 The process of managing software requirements is detailed, including requirements elicitation, analysis, specification, validation, and management activities. Each of these activities is crucial for ensuring that the software developed meets the intended use and performs as expected. SR elaborates on different techniques and considerations for eliciting requirements, analyzing them for completeness, consistency, and correctness, specifying requirements in a structured manner, validating them to ensure they meet user and system needs, and managing changes and scope effectively.
 
-Additionally, SR addresses practical considerations such as the iterative nature of the requirements process, prioritization of requirements, requirements tracing, and the challenges related to requirements stability and volatility. It highlights the importance of measuring and improving the quality of the requirements process to ensure the development of successful software products.
+SR addresses practical considerations such as the iterative nature of the requirements process, prioritization of requirements, requirements tracing, and the challenges related to requirements stability and volatility. It highlights the importance of measuring and improving the quality of the requirements process to ensure the development of successful software products.
 
-Tools for managing software requirements can aid in the requirements process, from management and modeling tools to functional test case generation tools.
+SR tools can aid in the requirements process, from management and modeling tools to functional test case generation tools.
 
-In summary, SR outlines the processes, techniques, and considerations essential for effectively capturing, analyzing, documenting, and managing the requirements that guide the development of software systems.
+SR outlines the processes, techniques, and considerations essential for effectively capturing, analyzing, documenting, and managing the requirements that guide the development of software systems.
 
+See Also::
+https://www.iiba.org/[International Institute of Business Analysis]

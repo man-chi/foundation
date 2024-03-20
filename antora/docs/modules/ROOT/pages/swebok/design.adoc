@@ -1,0 +1,21 @@
+=  Software Design
+:navtitle: Software Design
+
+Software design(SD) is a discipline that utilizes scientific principles, technical information, and imagination to define a system that meets specific functions efficiently and economically. It is the essence of design in terms of discipline, processes, results, and its stage in the software development lifecycle. Importantly, it distinguishes software design into three stages: architectural design, high-level design, and detailed design, underscoring the progression from a broad architectural perspective to detailed component design.
+
+Breakdown of SD includes fundamentals, processes, qualities, strategies, and methods of recording designs. It elaborates on various software design fundamentals like design thinking, the context of software design, key issues, and principles guiding software design. These fundamentals set the groundwork for understanding the intricate processes involved in creating functional and efficient software designs.
+
+In detailing software design processes, the guide differentiates between high-level design and detailed design, explaining their respective focuses and objectives. High-level design looks at the system's overall structure and organization, while detailed design delves into the specifications of each component, making it construction-ready.
+
+Software design qualities will be thoroughly examined, covering aspects like concurrency, control and event handling, data persistence, and distribution of components, among others. These qualities highlight the attributes that designs must possess to ensure the software is robust, efficient, and maintainable.
+
+Recording software designs is another critical area, emphasizing the importance of documenting the design process and outcomes. This documentation serves multiple purposes, from guiding development to facilitating future maintenance and enhancement efforts.
+
+SD explores various software design strategies and methods, providing insights into function-oriented, data-centered, object-oriented, and other design approaches. It also covers software design quality analysis and evaluation, discussing tools and techniques like design reviews, static analysis, and measures and metrics for assessing design quality.
+
+SD covers principles, processes, and practices. It underscores the importance of thorough planning, evaluation, and documentation in creating successful software designs that meet user requirements and perform efficiently in real-world scenarios.
+
+See Also::
+- https://rightingsoftware.org/[Righting Software]
+- https://domaindrivendesign.org/ddd-domain-driven-design/[Domain-Driven Design]
+- https://www.researchgate.net/publication/200085877_On_the_Criteria_To_Be_Used_in_Decomposing_Systems_into_Modules[On the Criteria To Be Used in Decomposing Systems into Modules]
