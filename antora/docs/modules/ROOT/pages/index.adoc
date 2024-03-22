@@ -2,17 +2,30 @@
 :navtitle: Research Paper
 :description: Research Paper: The Convergence of Design and Metrics: Proposing a Metamodel for Software Engineering Excellence
 
-
 {description}
 
 .Body of Knowledge Metamodel
 image::bok.drawio.svg[BoK Metamodel]
 
+== OMG Motivation Model
+The OMG Motivation Model provides a framework for understanding the motivations behind software and systems development. It aims to capture the rationale behind architectural decisions and designs. The Motivation Model provides traceability from high-level stakeholder goals to specific system requirements. This helps ensure the system fulfills its intended purpose.
 
-== link:ieee.org/about/ieee-standards/standards-technology/swebok/[IEEE Software Engineering Body of Knowledge]
+== Domain Driven Design & Value Stream
+Domain-driven design (DDD) is an approach to software development that focuses on modeling the business domain and core business logic. The goal of DDD is to build software that accurately reflects business needs and domain logic. It enables closer collaboration with domain experts to capture deeper domain knowledge.
+
+A value stream is the sequence of activities an organization undertakes to deliver on a customer request. It represents the end-to-end flow of work, mapping out each process step from the beginning to the end. A value stream summary provides a high-level overview of the key steps, stakeholders, and goals within a value stream. 
+
+== Capability Map
+A capability map provides a high-level visualization of an organization's key capabilities and how they relate to achieving strategic business goals. It captures capabilities across people, process, technology, and governance. The capability map is a tool to align business and IT capabilities to strategy. It helps drive change by identifying what capabilities to build, sustain, or retire.
+
+== INFORMS Analytics Body of Knowledge
+The INFORMS Analytics Body of Knowledge provides a comprehensive framework outlining the core knowledge areas in analytics and operations research. It covers techniques like optimization, simulation, stochastic modeling, and decision analysis. The BoK aims to support analytics education and serve as a reference for analytics professionals. It guides the foundational competencies needed to apply analytics and operations research to drive data-informed decision-making.
+
+== IEEE Software Engineering Body of Knowledge]
 SWEBOK V4 is an updated guide developed to reflect the current state, practices, and knowledge areas in the field of software engineering. It serves as a comprehensive framework that outlines the universally accepted knowledge areas within the software engineering discipline, aiming to provide guidance for professionals, educators, and learners about the core areas of software engineering knowledge. This guide is published by the IEEE Computer Society and represents the collective understanding and consensus on what constitutes the field of software engineering. 
 
+== Data Management Body of Knowledge
+The Data Management Body of Knowledge (DMBOK) provides a framework to define the core knowledge areas in data management. It covers data governance, architecture, modeling, quality, and security. The DMBOK aims to guide best practices for managing data as a valued asset across the data lifecycle. It provides common terminology and principles for data professionals to establish data management as a discipline.
 
-
-
-
+== Open Group IT4IT Reference Architecture
+The Open Group IT4IT Reference Architecture provides a prescriptive reference architecture for managing the business of IT across the entire IT value chain. It aims to improve the agility and flexibility of IT organizations by providing a common operating model. The IT4IT model covers key functional areas including a strategy to portfolio, requirement to deploy, request to fulfill, and detect to correct.
