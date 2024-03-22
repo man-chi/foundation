@@ -44,3 +44,6 @@ __MACOSX/
 [Oo]bj/
 [Ll]og/
 .mono/
+
+#python
+__pycache__/
