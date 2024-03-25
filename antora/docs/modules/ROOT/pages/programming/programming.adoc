@@ -14,10 +14,10 @@ digraph finite_state_machine {
     node [shape = circle]; Python;
     node [shape = circle]; Kotlin;
     node [shape = circle]; Rust;
-    node [shape = circle]; CSharp;
+    node [shape = circle]; Csharp;
     node [shape = circle]; Julia;
 
- 	Kotlin -> CSharp [ label = "Enterprise" ];
+ 	Csharp -> Kotlin [ label = "Enterprise" ];
   Python -> Julia [ label = "Scientific" ];
 	Typescript -> Rust [ label = "Web" ];
 }

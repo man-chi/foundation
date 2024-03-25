@@ -1,0 +1,30 @@
+= Subroutines
+:navtitle: Subroutines
+
+== procedure vs method vs function in programming
+
+In programming, the terms "procedure," "method," and "function" refer to constructs that allow you to encapsulate code for reuse and organization. While they share similarities, they originate from different programming paradigms and have distinct characteristics:
+
+== Procedure
+Paradigm: Procedural programming.
+Characteristics: A procedure is a set of instructions that perform a task but does not return a value. It's used to execute a sequence of statements and can be called upon to perform its task when needed. Procedures are common in languages like Pascal and C (where they are often referred to as functions that do not return a value).
+Usage: Procedures are used to structure code in a modular fashion, allowing for code reuse and better organization without necessarily computing and returning a value.
+
+== Function
+Paradigm: Functional programming, but also used in procedural and object-oriented programming.
+Characteristics: A function is similar to a procedure but is designed to return a value. Functions take zero or more parameters and return a single value. They are deterministic, meaning the same input values will always produce the same output, and ideally, they have no side effects (though this is more a characteristic of pure functions, particularly in functional programming).
+Usage: Functions are used to encapsulate computations or transformations. They can be passed around as arguments, returned from other functions, and used to build complex expressions in a concise way.
+
+== Method
+Paradigm: Object-oriented programming.
+Characteristics: A method is a function that is associated with an object or class. Methods are invoked on an instance of a class (instance methods) or on the class itself (class methods, static methods). They can access and modify the state of the object to which they belong, making them inherently tied to the data of that object.
+Usage: Methods are used to define the behaviors of objects. They provide a way to interact with an object's data, encapsulate operations on that data, and implement the interface that an object presents to the outside world.
+Comparison
+Scope and Association: Procedures and functions are standalone constructs in procedural and functional programming, respectively. Methods are associated with objects or classes in object-oriented programming.
+Return Value: Procedures do not return a value, functions return a value, and methods can either return a value or not, depending on their purpose.
+Side Effects: Pure functions are designed to have no side effects, making them predictable and easy to test. Procedures and methods, however, can have side effects, such as modifying the global state or the state of an object.
+
+== Summary
+Paradigm Alignment: Each of these constructs aligns with the principles of its respective programming paradigm, whether it's the modularity and code reuse in procedural programming, the immutability and expression evaluation in functional programming, or the encapsulation and message passing in object-oriented programming.
+
+Understanding the distinctions and appropriate uses of procedures, functions, and methods is crucial for writing clear, maintainable, and effective code in various programming paradigms.

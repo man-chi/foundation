@@ -1,0 +1,38 @@
+= Structured Programming
+:navtitle: Structured Programming
+
+== characteristic of structured programming languages
+
+Structured programming languages are designed to facilitate clear, logical, and easy-to-understand programming practices. They encourage the development of software in a top-down, modular fashion, where complex problems are broken down into smaller, manageable problems through the use of functions or procedures. The key characteristics of structured programming languages include:
+
+Block Structuring::
+Code is organized into blocks, which can contain declarations and instructions. These blocks define scopes and are fundamental in organizing code into logical, manageable sections.
+
+Control Flow Constructs::
+Structured programming languages provide control flow constructs such as loops (for, while, do-while), conditionals (if-else, switch-case), and jump statements (break, continue, return) that control the execution flow of the program in a structured manner, without resorting to the use of goto statements.
+
+Subroutines and Functions::
+The use of subroutines (procedures) and functions is a core aspect. These allow for code reuse, modular design, and abstraction. Functions and procedures enable a programmer to encapsulate code logic that can be called from multiple places within a program, reducing redundancy and improving maintainability.
+
+Local Variable Scope::
+Variables can be declared within blocks or functions, limiting their scope and lifetime to that block or function. This helps in preventing side effects and makes the code more understandable and easier to debug.
+
+Sequential Execution::
+Instructions are executed sequentially by default, in the order in which they appear in the code, unless explicitly altered by control flow constructs. This predictable execution path aids in the logical design and analysis of programs.
+
+Data Structures::
+Structured programming languages often provide support for complex data structures, such as arrays, records (structs), and linked lists, enabling the efficient organization and manipulation of data.
+
+Type Checking::
+Many structured programming languages enforce type checking, either statically (at compile time) or dynamically (at runtime), to ensure that operations on variables are type-safe, reducing runtime errors.
+
+Recursion::
+Support for recursion allows functions to call themselves, either directly or indirectly, enabling elegant solutions for certain types of problems, such as those that can be divided into similar subproblems.
+
+Modularity::
+The emphasis on modular programming encourages the division of a program into separate, independent modules, each encapsulating a specific functionality. This enhances code readability, and maintainability, and facilitates team development.
+
+Structured programming languages, such as C, Pascal, and Ada, embody these characteristics to various extents, promoting the development of reliable, efficient, and easy-to-maintain software.
+
+
+
