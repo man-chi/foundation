@@ -23,5 +23,6 @@
 ** xref:asciidoc/kroki.adoc[Kroki]
 ** xref:asciidoc/vega.adoc[Vega]
 ** xref:asciidoc/c4model.adoc[C4 Model]
-** xref:asciidoc/reveal.adoc[Reveal.js]
+* xref::[Reveal Slide]
+** xref:reveal-slide/reveal.adoc[Reveal.js]
 * xref:contributors.adoc[Credits]
