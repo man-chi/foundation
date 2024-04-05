@@ -25,4 +25,5 @@
 ** xref:asciidoc/c4model.adoc[C4 Model]
 * xref::[Reveal Slide]
 ** xref:reveal-slide/reveal.adoc[Reveal.js]
+* xref:learning.adoc[Continous Learning]
 * xref:contributors.adoc[Credits]

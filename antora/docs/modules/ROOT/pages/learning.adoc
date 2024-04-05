@@ -1,0 +1,109 @@
+= Continous Learning
+:navtitle: Continous Learning
+
+== Best Practices for Conducting a Book Club
+
+. Selecting Books
+Relevance: Choose books that are relevant to your current work or future projects. This could include the latest on software development practices, AI breakthroughs, or foundational texts in computer science.
+Variety: Rotate between technical books, biographies of tech leaders, and even science fiction to stimulate creativity and broader thinking about the impact of technology.
+Accessibility: Ensure the books are accessible to all members, considering different levels of expertise. It might be helpful to have a mix of more technical and more general-interest books.
+
+. Scheduling and Participation
+Regular Meetings: Schedule meetings at a regular interval, such as bi-weeklyt, to provide a consistent rhythm. Avoid scheduling conflicts with major project deadlines.
+Flexible Format: Consider a hybrid format where members can join in person or virtually, accommodating remote team members.
+Encourage Participation: Make it clear that all opinions are valued. Encourage quieter members to share their thoughts and ensure discussions don't get dominated by a few voices.
+
+. Discussion Structure
+Discussion Leader: Rotate the role of discussion leader for each meeting to share the responsibility and introduce new perspectives and styles.
+Prepared Questions: Have the discussion leader prepare a list of questions or topics to guide the conversation, ensuring it remains focused and engaging.
+Real-World Application: Encourage discussion on how the concepts or ideas from the book can be applied to your current projects or workflows.
+
+. Integration with Work
+Actionable Takeaways: Conclude each session by summarizing key takeaways and discussing how they can be applied to your work.
+Share Learnings: Encourage members to share insights or summaries with the wider company, perhaps through a newsletter or a dedicated Slack channel, to spread the knowledge beyond the book club.
+
+
+
+== Exclusive Collections
+
+Leadership Track::
+. Culture - Open: The Story Of Human Progress
+. Behavior - Element of Choice
+. Roadmap - Rewired
+. Goal - Design Thinking Metrics
+. Measurement - How to Measure Anything
+. Recognition - The Carrot Principle
+. Leadership - Essential Deming
+. Finance - Financial Intelligence
+
+Business Track::
+. Innovation - The Design Thinking Playbook
+. Business Model - Value Prepositions
+. Operation - Operating Model Canvas
+. Product - Product Development Flow
+. Lean - Value Stream Management
+. Rules - Business Rules
+. UX - Mapping Experience
+. Requirement - User Story Mapping
+
+Engineering Track::
+. IEEE SWEBOK v4
+. Principles - Software Fundamentals
+. Domain Driven Design - Domain Modeling Made Functional
+. Event Modelling - Event Mining for Explanatory Modeling
+. Architecture - Righting Software 
+. Modularity - Java Application Architecture
+. Construction - Code Complete
+. Proof - Formal Methods
+. Cybersecurity - ISO 27001:2022 ISMS Lead Implementer Training Course
+. Computer Science: Distributed Systems
+
+Technology Track::
+. Data Model - Data Modeling Made Simple
+. Database - Refactoring Database 
+. Data Warehouse - The Data Warehouse Toolkit
+. Data Engineering - Designing Data-Intensive Applications
+. Data Management - Data Management at Scale
+. Machine Learning - Designing Machine Learning Systems
+. Artificial Intelligence - Artificial Intelligence: A Modern Approach
+. SaaS - Cloud Native Patterns
+. IaaS - Design Patterns for Cloud Native Applications
+. Devops - Devops Handbook
+. Checklist - The Missing README
+
+[bibliography]
+== References
+- [[[RUS10]]] S. J. Russell, P. Norvig, and E. Davis, Artificial Intelligence: A Modern Approach. Prentice Hall, 2010.
+- [[[LAM20]]] G. S. W. Lam, R. G. Ross, K. Seer, M. Norton, D. Lyalin, and  W. Williams, Business Rules: Management and Execution. Future Strategies Inc., 2020.
+- [[[DAV19]]] C. Davis, Cloud Native Patterns: Designing change-tolerant software. Simon and Schuster, 2019.
+- [[[MCC04]]] S. Mcconnell, Code Complete, 2nd Edition. Wiley India Pvt. Limited, 2004.
+- [[[HOB09]]] S. Hoberman, Data Modeling Made Simple: A Practical Guide for Business and IT Professionals. Technics Publications, 2009.
+- [[[IND21]]] K. Indrasiri and S. Suhothayan, Design Patterns for Cloud Native Applications. O’Reilly Media, Inc., 2021.
+- [[[KLE17]]] M. Kleppmann, Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems. O'Reilly Media, Inc., 2017.
+- [[[HUY22]]] C. Huyen, Designing Machine Learning Systems. O’Reilly Media, Inc., 2022.
+- [[[TAN17]]] A. S. Tanenbaum and M. van Steen, Distributed Systems. CreateSpace Independent Publishing Platform, 2017.
+- [[[WLA18]]] S. Wlaschin, Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#. Pragmatic Bookshelf, 2018.
+- [[[JAL21]]] L. Jalali and R. Jain, Event Mining for Explanatory Modeling. Association for Computing Machinery, 2021.
+- [[[BER13]]] K. Berman and J. Knight, Financial Intelligence, Revised Edition: A Manager’s Guide to Knowing What the Numbers Really Mean. Harvard Business Press, 2013.
+- [[[NIE19]]] F. Nielson and H. R. Nielson, Formal Methods: An Appetizer. Springer International Publishing, 2019.
+- [[[HUB10]]] D. W. Hubbard, How to Measure Anything: Finding the Value of Intangibles in Business. John Wiley & Sons, 2010.
+- [[[KNO12]]] K. Knoernschild, Java Application Architecture: Modularity Patterns with Examples Using OSGi. Prentice Hall, 2012.
+- [[[KAL21]]] J. Kalbach, Mapping Experiences: A Complete Guide to Customer Alignment Through Journeys, Blueprints, and Diagrams. O’Reilly, 2021.
+- [[[NOR20]]] J. Norberg, Open: The Story Of Human Progress. Atlantic Books, 2020.
+- [[[CAM17]]] A. Campbell, M. Gutierrez, and M. Lancelott, Operating Model Canvas. Van Haren Publishing, 2017.
+- [[[AMB06]]] S. W. Ambler and P. J. Sadalage, Refactoring Databases: Evolutionary Database Design. Pearson Education, 2006.
+- [[[LAM23]]] E. Lamarre, K. Smaje, and R. Zemmel, Rewired: The McKinsey Guide to Outcompeting in the Age of Digital and AI. John Wiley & Sons, 2023.
+- [[[LOW19]]] J. Löwy, Righting Software. Addison-Wesley Professional, 2019.
+- [[[PAR01]]] D. L. Parnas, Software Fundamentals: Collected Papers by David L. Parnas. Addison-Wesley, 2001.
+- [[[WAR24]]] S. Wareham, “SWEBOK Evolution,” IEEE Computer Society. Accessed: Apr. 05, 2024. 
+- [[[GOS12]]] A. Gostick and C. Elton, The Carrot Principle: How the Best Managers Use Recognition to Engage Their Employees, Retain Talent, and Drive Performance. Simon and Schuster, 2012.
+- [[[KIM13]]] R. Kimball and M. Ross, The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling. John Wiley & Sons, 2013.
+- [[[LEW18]]] M. Lewrick, P. Link, and L. Leifer, The Design Thinking Playbook: Mindful Digital Transformation of Teams, Products, Services, Businesses and Ecosystems. John Wiley & Sons, 2018.
+- [[[KIM21]]] G. Kim, J. Humble, P. Debois, J. Willis, and N. Forsgren, The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Or[[ganizat]]ions. IT Revolution, 2021.
+- [[[JOH21]]] E. J. Johnson, The Elements of Choice: Why the Way We Decide Matters. Riverhead Books, 2021.
+- [[[DEM12]]] W. E. Deming, The Essential Deming: Leadership Principles from the Father of Quality. McGraw Hill Professional, 2012.
+- [[[RIC21]]] C. Riccomini and D. Ryaboy, The Missing README: A Guide for the New Software Engineer. No Starch Press, 2021.
+- [[[REI09]]] D. G. Reinertsen, The Principles of Product Development Flow: Second Generation Lean Product Development. Celeritas, 2009.
+- [[[PAT14]]] J. Patton and P. Economy, User Story Mapping: Discover the Whole Story, Build the Right Product. O’Reilly Media, Inc., 2014.
+- [[[OST15]]] A. Osterwalder, Y. Pigneur, G. Bernarda, and A. Smith, Value Proposition Design: How to Create Products and Services Customers Want. John Wiley & Sons, 2015.
+- [[[TAP02]]] D. Tapping, T. Luyster, and T. Shuker, Value Stream Management: Eight Steps to Planning, Mapping, and Sustaining Lean Improvements. Taylor & Francis, 2002.
