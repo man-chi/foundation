@@ -40,7 +40,7 @@ Business Track::
 . Innovation - The Design Thinking Playbook
 . Business Model - Value Prepositions
 . Operation - Operating Model Canvas
-. Product - Product Development Flow
+. Economics - Product Development Flow
 . Lean - Value Stream Management
 . Rules - Business Rules
 . UX - Mapping Experience
@@ -51,12 +51,12 @@ Engineering Track::
 . Principles - Software Fundamentals
 . Domain Driven Design - Domain Modeling Made Functional
 . Event Modelling - Event Mining for Explanatory Modeling
-. Architecture - Righting Software 
+. System Design - Righting Software 
 . Modularity - Java Application Architecture
 . Construction - Code Complete
-. Proof - Formal Methods
-. Cybersecurity - ISO 27001:2022 ISMS Lead Implementer Training Course
-. Computer Science: Distributed Systems
+. Models & Methods - Formal Methods
+. Security - ISO 27001:2022 ISMS Lead Implementer Training Course
+. Computing: Distributed Systems
 
 Technology Track::
 . Data Model - Data Modeling Made Simple
