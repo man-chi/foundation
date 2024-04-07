@@ -24,17 +24,18 @@ Share Learnings: Encourage members to share insights or summaries with the wider
 
 
 
-== Exclusive Collections
+== Accredited Collections
 
 Leadership Track::
 . Culture - Open: The Story Of Human Progress
-. Behavior - Element of Choice
+. User Behavior - Element of Choice
 . Roadmap - Rewired
-. Goal - Design Thinking Metrics
-. Measurement - How to Measure Anything
+. Alignment - Design Thinking Metrics
+. Risk Management - How to Measure Anything
 . Recognition - The Carrot Principle
 . Leadership - Essential Deming
 . Finance - Financial Intelligence
+. Certificate Program - https://executive.mit.edu/course/business-process-design-for-strategic-management/a056g00000URaa1AAD.html[Business Process Design for Strategic Management]
 
 Business Track::
 . Innovation - The Design Thinking Playbook
@@ -45,9 +46,9 @@ Business Track::
 . Rules - Business Rules
 . UX - Mapping Experience
 . Requirement - User Story Mapping
+. Certificate Program - https://www.iiba.org/[International Institute of Business Analysis]
 
-Engineering Track::
-. IEEE SWEBOK v4
+Softawre Engineering Track::
 . Principles - Software Fundamentals
 . Domain Driven Design - Domain Modeling Made Functional
 . Event Modelling - Event Mining for Explanatory Modeling
@@ -56,9 +57,11 @@ Engineering Track::
 . Construction - Code Complete
 . Models & Methods - Formal Methods
 . Security - ISO 27001:2022 ISMS Lead Implementer Training Course
-. Computing: Distributed Systems
+. Checklist - The Missing README
+. Certificate Program - https://www.computer.org/product/education/professional-software-engineering-master-certification[Professional Software Engineering Master Certification]
 
-Technology Track::
+Data Science & Infrastructure Track::
+. Computing: Distributed Systems
 . Data Model - Data Modeling Made Simple
 . Database - Refactoring Database 
 . Data Warehouse - The Data Warehouse Toolkit
@@ -68,8 +71,8 @@ Technology Track::
 . Artificial Intelligence - Artificial Intelligence: A Modern Approach
 . SaaS - Cloud Native Patterns
 . IaaS - Design Patterns for Cloud Native Applications
-. Devops - Devops Handbook
-. Checklist - The Missing README
+. Operation - The DevOps Handbook
+. Certificate Program - https://www.dama.org/cpages/body-of-knowledge[DAMA]
 
 [bibliography]
 == References
@@ -95,7 +98,6 @@ Technology Track::
 - [[[LAM23]]] E. Lamarre, K. Smaje, and R. Zemmel, Rewired: The McKinsey Guide to Outcompeting in the Age of Digital and AI. John Wiley & Sons, 2023.
 - [[[LOW19]]] J. Löwy, Righting Software. Addison-Wesley Professional, 2019.
 - [[[PAR01]]] D. L. Parnas, Software Fundamentals: Collected Papers by David L. Parnas. Addison-Wesley, 2001.
-- [[[WAR24]]] S. Wareham, “SWEBOK Evolution,” IEEE Computer Society. Accessed: Apr. 05, 2024. 
 - [[[GOS12]]] A. Gostick and C. Elton, The Carrot Principle: How the Best Managers Use Recognition to Engage Their Employees, Retain Talent, and Drive Performance. Simon and Schuster, 2012.
 - [[[KIM13]]] R. Kimball and M. Ross, The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling. John Wiley & Sons, 2013.
 - [[[LEW18]]] M. Lewrick, P. Link, and L. Leifer, The Design Thinking Playbook: Mindful Digital Transformation of Teams, Products, Services, Businesses and Ecosystems. John Wiley & Sons, 2018.
