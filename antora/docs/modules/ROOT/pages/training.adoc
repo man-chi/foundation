@@ -1,7 +1,7 @@
-= Continous Learning
-:navtitle: Continous Learning
+= Training
+:navtitle: Training
 
-== Best Practices for Conducting a Book Club
+== How to Conduct Book Club
 
 . Selecting Books
 Relevance: Choose books that are relevant to your current work or future projects. This could include the latest on software development practices, AI breakthroughs, or foundational texts in computer science.
@@ -21,7 +21,6 @@ Real-World Application: Encourage discussion on how the concepts or ideas from t
 . Integration with Work
 Actionable Takeaways: Conclude each session by summarizing key takeaways and discussing how they can be applied to your work.
 Share Learnings: Encourage members to share insights or summaries with the wider company, perhaps through a newsletter or a dedicated Slack channel, to spread the knowledge beyond the book club.
-
 
 
 == Accredited Collections
