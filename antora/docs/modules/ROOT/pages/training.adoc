@@ -1,26 +1,25 @@
 = Training
 :navtitle: Training
 
-== How to Conduct Book Club
+== How to Conduct Study Group Sessions
 
-. Selecting Books
-Relevance: Choose books that are relevant to your current work or future projects. This could include the latest on software development practices, AI breakthroughs, or foundational texts in computer science.
-Variety: Rotate between technical books, biographies of tech leaders, and even science fiction to stimulate creativity and broader thinking about the impact of technology.
-Accessibility: Ensure the books are accessible to all members, considering different levels of expertise. It might be helpful to have a mix of more technical and more general-interest books.
+Frequency::
+you can conduct study group sessions every two weeks. This will give everyone enough time to read and prepare for the discussion. 
 
-. Scheduling and Participation
-Regular Meetings: Schedule meetings at a regular interval, such as bi-weeklyt, to provide a consistent rhythm. Avoid scheduling conflicts with major project deadlines.
-Flexible Format: Consider a hybrid format where members can join in person or virtually, accommodating remote team members.
-Encourage Participation: Make it clear that all opinions are valued. Encourage quieter members to share their thoughts and ensure discussions don't get dominated by a few voices.
+Book Selection::
+it is recommended to select a book that is relevant to the current work, but not specific to any product or technology. This will allow everyone to relate to the content and gather insights that can be applied to their work.
 
-. Discussion Structure
-Discussion Leader: Rotate the role of discussion leader for each meeting to share the responsibility and introduce new perspectives and styles.
-Prepared Questions: Have the discussion leader prepare a list of questions or topics to guide the conversation, ensuring it remains focused and engaging.
-Real-World Application: Encourage discussion on how the concepts or ideas from the book can be applied to your current projects or workflows.
+Appointing a Coordinator::
+you can appoint a coordinator to facilitate study group sessions by rotation, set an agenda, take notes, and control time. This will ensure that the discussion stays on track, everyone gets a chance to speak, and important points are noted down.
 
-. Integration with Work
-Actionable Takeaways: Conclude each session by summarizing key takeaways and discussing how they can be applied to your work.
-Share Learnings: Encourage members to share insights or summaries with the wider company, perhaps through a newsletter or a dedicated Slack channel, to spread the knowledge beyond the book club.
+Preparation & Commitment::
+all members must prepare and complete reading certain material before attending the study group session. For instance, they can finish reading three chapters of the book. It is not expected of the coordinator to present the content.
+
+Ideal Study Group Size::
+the size of the group should be small, recommended to be less than 8. This will allow sufficient time for everyone to share their thoughts on reading and engage in a meaningful discussion.
+
+Integration with Work::
+as a bonus, members could take opportunities to share their experience on applying training to current projects. This will help everyone to learn from each other and improve their skills.
 
 
 == Accredited Collections
@@ -34,7 +33,7 @@ Leadership Track::
 . Recognition - The Carrot Principle
 . Leadership - Essential Deming
 . Finance - Financial Intelligence
-. Certificate Program - https://executive.mit.edu/course/business-process-design-for-strategic-management/a056g00000URaa1AAD.html[Business Process Design for Strategic Management]
+. Certificate Program - https://executive.mit.edu/course/business-process-design-for-strategic-management/a056g00000URaa1AAD.html[MIT Sloan: Business Process Design for Strategic Management]
 
 Business Track::
 . Innovation - The Design Thinking Playbook
@@ -47,7 +46,7 @@ Business Track::
 . Requirement - User Story Mapping
 . Certificate Program - https://www.iiba.org/[International Institute of Business Analysis]
 
-Softawre Engineering Track::
+Software Engineering Track::
 . Principles - Software Fundamentals
 . Domain Driven Design - Domain Modeling Made Functional
 . Event Modelling - Event Mining for Explanatory Modeling
@@ -71,7 +70,7 @@ Data Science & Infrastructure Track::
 . SaaS - Cloud Native Patterns
 . IaaS - Design Patterns for Cloud Native Applications
 . Operation - The DevOps Handbook
-. Certificate Program - https://www.dama.org/cpages/body-of-knowledge[DAMA]
+. Certificate Program - https://www.dama.org/cpages/body-of-knowledge[Data Management Body of Knowledge]
 
 [bibliography]
 == References
