@@ -7,13 +7,13 @@ Frequency::
 you can conduct study group sessions every two weeks. This will give everyone enough time to read and prepare for the discussion. 
 
 Book Selection::
-it is recommended to select a book that is relevant to the current work, but not specific to any product or technology. This will allow everyone to relate to the content and gather insights that can be applied to their work.
+it is recommended to select a book that is relevant to the current work, but not specific to any product or technology. This will allow everyone to relate to the content and gather insights that can be applied to their work.    
 
 Appointing a Coordinator::
 you can appoint a coordinator to facilitate study group sessions by rotation, set an agenda, take notes, and control time. This will ensure that the discussion stays on track, everyone gets a chance to speak, and important points are noted down.
 
 Preparation & Commitment::
-all members must prepare and complete reading certain material before attending the study group session. For instance, they can finish reading three chapters of the book. It is not expected of the coordinator to present the content.
+all members are required to prepare and complete reading a certain amount of material beforehand. For instance, they should aim to read 50 pages of the book per session, with an average of 300 pages (one book) per quarter. The coordinator doesn't need to present the content.
 
 Ideal Study Group Size::
 the size of the group should be small, recommended to be less than 8. This will allow sufficient time for everyone to share their thoughts on reading and engage in a meaningful discussion.
@@ -22,7 +22,7 @@ Integration with Work::
 as a bonus, members could take opportunities to share their experience on applying training to current projects. This will help everyone to learn from each other and improve their skills.
 
 
-== Accredited Collections
+== Training Journey
 
 Leadership Track::
 . Culture - Open: The Story Of Human Progress
