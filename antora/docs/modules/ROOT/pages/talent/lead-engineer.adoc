@@ -27,5 +27,3 @@ Qualifications::
 - Exceptional communication and interpersonal skills, with the ability to communicate complex technical concepts to non-technical stakeholders.
 - Experience with Agile development methodologies and DevOps practices.
 - A passion for technology and a drive to stay current with new trends and best practices.
-
-If you are a passionate Lead Software Engineer with a desire to work on challenging projects and a proven track record of success, we encourage you to apply.

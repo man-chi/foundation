@@ -15,7 +15,8 @@ What We Offer::
 
 How to Apply::
 - Please submit your resume, along with a cover letter explaining why you are the perfect fit for this role and how you can contribute to our team. Include examples of past projects or achievements that demonstrate your expertise and leadership in software development.
-- We look forward to reviewing your application and potentially welcoming you to our team!
+- If you are a passionate in Software Engineering with a desire to work on challenging projects and a proven track record of success, we encourage you to apply.
+
 
 Resume Screening::
 Initial Screening: Review resumes to shortlist candidates based on their experience, technical skills, and past projects that align with the role requirements.

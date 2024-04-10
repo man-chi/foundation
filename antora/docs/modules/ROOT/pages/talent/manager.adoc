@@ -1,0 +1,60 @@
+= Engineering Manager
+:navtitle: Engineering Manager
+
+== Responsibilities
+Team Leadership::
+- Lead and manage a team of talented engineers, providing guidance, mentorship, and support for their professional development.
+- Foster a positive and collaborative team culture that encourages innovation and continuous improvement.
+
+Project Management::
+- Oversee the planning, execution, and delivery of software development projects, ensuring they align with business goals and timelines.
+- Collaborate with product managers, stakeholders, and cross-functional teams to define project scope and objectives.
+
+Technical Leadership and Software Design::
+- Provide hands-on technical leadership, actively contributing to software design and architecture.
+- Collaborate with engineering teams to design scalable, maintainable, and efficient software solutions.
+
+Architectural Planning::
+- Drive the development and evolution of the overall software architecture in alignment with business and technical goals.
+- Conduct architectural reviews and ensure adherence to best practices and coding standards.
+
+Resource Management::
+- Allocate resources effectively to meet project deadlines and objectives.
+- Work closely with HR to manage team capacity, recruitment, and onboarding of new team members.
+
+Collaboration and Communication::
+- Foster effective communication within the engineering team and with other departments.
+- Collaborate with product management, design, and quality assurance teams to ensure cross-functional alignment.
+
+Strategic Planning::
+- Contribute to the development and execution of the engineering strategy with a focus on software design and architecture.
+- Identify opportunities for process improvement, cost reduction, and efficiency gains.
+
+Quality Assurance and DevOps::
+- Collaborate with quality assurance and DevOps teams to ensure the delivery of high-quality, reliable, and scalable software.
+- Implement and improve CI/CD pipelines for efficient and automated software delivery.
+
+Performance Monitoring::
+- Monitor and assess the performance of engineering teams against key performance indicators (KPIs), OKR and project milestones.
+- Implement measures to address and improve team performance as needed.
+
+Budget Management::
+- Collaborate with finance and leadership teams to manage the engineering budget effectively.
+- Ensure resource allocation aligns with project priorities and financial constraints.
+
+Risk Management::
+- Identify and mitigate project and technical risks proactively.
+- Implement strategies to minimize project delivery risks and ensure successful outcomes.
+
+Mentorship and Development::
+- Provide mentorship and career development support to engineering team members.
+- Encourage a culture of continuous learning and skill development.
+
+== Qualifications
+- Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+- At least 10 years of experience in software development, 5 years in a leadership/management role, and a strong background in software design and architecture.
+- Proven track record in successfully leading and delivering complex software projects with a focus on architectural excellence.
+- Strong understanding of software development methodologies, agile practices, and project management.
+- Excellent communication, interpersonal, and leadership skills.
+- Strategic thinker with the ability to align technical initiatives with business goals.
+- Experience with talent acquisition, team building, and fostering a positive work culture.

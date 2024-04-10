@@ -21,5 +21,3 @@ To be considered for this role, you should possess:
 - Experience with Agile methodologies, including Scrum and Kanban. You should be comfortable working in an Agile environment and be able to work collaboratively with your peers to deliver high-quality software solutions.
 - Strong problem-solving and analytical skills, with the ability to think creatively and outside the box. You should be comfortable working with complex systems and be able to think critically and creatively to solve problems.
 - Excellent communication and interpersonal skills, with the ability to work effectively in a team environment. You should be comfortable working in a team environment and be able to communicate effectively with your peers, stakeholders, and customers.
-
-If you are a passionate Senior Software Engineer with a desire to work on challenging projects and a proven track record of success, we encourage you to apply.

@@ -27,6 +27,7 @@
 ** xref:reveal-slide/reveal.adoc[Reveal.js]
 * xref::[Talent]
 ** xref:talent/interview.adoc[Interview]
+** xref:talent/manager.adoc[Engineering Manager]
 ** xref:talent/lead-engineer.adoc[Lead Software Engineer]
 ** xref:talent/senior-engineer-dotnet.adoc[Senior Software Engineer (.Net)]
 ** xref:talent/senior-engineer-ml.adoc[Senior ML Engineer (Python)]
