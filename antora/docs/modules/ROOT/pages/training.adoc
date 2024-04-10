@@ -16,10 +16,10 @@ Preparation & Commitment::
 all members are required to prepare and complete reading a certain amount of material beforehand. For instance, they should aim to read 50 pages of the book per session, with an average of 300 pages (one book) per quarter. The coordinator doesn't need to present the content.
 
 Ideal Study Group Size::
-the size of the group should be small, recommended to be less than 8. This will allow sufficient time for everyone to share their thoughts on reading and engage in a meaningful discussion.
+the size of the group should be small and recommended to be less than 8. This will allow sufficient time for everyone to share their thoughts on reading and engage in a meaningful discussion.
 
-Integration with Work::
-as a bonus, members could take opportunities to share their experience on applying training to current projects. This will help everyone to learn from each other and improve their skills.
+Participating in Hackathon and OSS::
+members could take opportunities to share their experience on applying training to current projects through a hackathon or open-source community. This will help everyone to learn from each other and improve their skills.
 
 
 == Training Journey
@@ -48,8 +48,9 @@ Business Track::
 
 Software Engineering Track::
 . Principles - Software Fundamentals
-. Domain Driven Design - Domain Modeling Made Functional
-. Event Modelling - Event Mining for Explanatory Modeling
+. Domain Modeling - Domain-Driven Design
+. Event Modeling - Event Mining for Explanatory Modeling
+. Functional Modeling - Domain Modeling Made Functional
 . System Design - Righting Software 
 . Modularity - Java Application Architecture
 . Construction - Code Complete
@@ -107,3 +108,4 @@ Data Science & Infrastructure Track::
 - [[[PAT14]]] J. Patton and P. Economy, User Story Mapping: Discover the Whole Story, Build the Right Product. O’Reilly Media, Inc., 2014.
 - [[[OST15]]] A. Osterwalder, Y. Pigneur, G. Bernarda, and A. Smith, Value Proposition Design: How to Create Products and Services Customers Want. John Wiley & Sons, 2015.
 - [[[TAP02]]] D. Tapping, T. Luyster, and T. Shuker, Value Stream Management: Eight Steps to Planning, Mapping, and Sustaining Lean Improvements. Taylor & Francis, 2002.
+- [[[EVA03]]] E. Evans, Domain-Driven Design: Tackling Complexity in the Heart of Software. Addison-Wesley, 2003.
