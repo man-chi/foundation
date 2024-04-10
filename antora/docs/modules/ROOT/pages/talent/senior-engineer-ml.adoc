@@ -44,7 +44,7 @@ Mentorship and Leadership::
 - Provide mentorship and guidance to junior members of the team in the area of ML model development.
 - Take a leadership role in shaping the technical direction of machine learning projects within the NLP domain.
 
-Qualifications::
+== Qualifications:
 - Master's or Ph.D. in Computer Science, Machine Learning, or a related field.
 - At least 6 years of experience in developing and deploying ML models.
 Strong proficiency in Python, especially with Tensorflow/PyTorch, and familiarity with relevant libraries and frameworks.
