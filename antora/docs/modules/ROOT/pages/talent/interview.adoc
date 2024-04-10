@@ -1,7 +1,7 @@
-= Interview Process
-:navtitle: Interview Process
+= Interview
+:navtitle: Interview
 
-Sourcing::
+== Sourcing Process
 preferred to leverage LinkedIn or the recruiting platform
 
 Job Description and Role Definition::
