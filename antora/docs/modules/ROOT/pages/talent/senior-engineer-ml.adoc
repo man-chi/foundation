@@ -1,5 +1,5 @@
 
-= Senior Machine Learning Engineer (Python) Role
+= Senior Machine Learning Engineer Role (Python) 
 :navtitle: Senior Machine Learning Engineer
 
 == Responsibilities:
@@ -52,3 +52,5 @@ Strong proficiency in Python, especially with Tensorflow/PyTorch, and familiarit
 Proven track record of successfully delivering ML model solutions in a production environment.
 - Excellent problem-solving and critical-thinking skills.
 Strong communication and collaboration skills.
+
+If you are a passionate Machine Learning Software Engineer with a desire to work on challenging projects and a proven track record of success, we encourage you to apply.

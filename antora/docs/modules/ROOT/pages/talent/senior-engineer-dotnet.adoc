@@ -1,5 +1,5 @@
-= Senior .Net Software Engineer
-:navtitle: Senior .Net Software Engineer
+= Senior Software Engineer (.Net)
+:navtitle: Senior Software Engineer (.Net)
 
 Job Summary:: Our company is seeking an experienced and highly skilled Senior Software Engineer to join our team. In this role, you will be responsible for designing, developing, and implementing complex software solutions using C# and .NET Frameworks. You should have a deep understanding of software development principles and at least six years of experience working in this field. 
 
