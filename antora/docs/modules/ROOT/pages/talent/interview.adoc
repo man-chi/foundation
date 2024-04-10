@@ -7,6 +7,11 @@ preferred to leverage LinkedIn or the recruiting platform
 Job Description and Role Definition::
 Define the Role Clearly: Outline the responsibilities, required skills, experience levels, and any specific technologies or methodologies the candidate should be familiar with. This clarity helps attract suitable candidates.
 
+How to Apply::
+Please submit your resume, along with a cover letter explaining why you are the perfect fit for this role and how you can contribute to our team. Include examples of past projects or achievements that demonstrate your expertise and leadership in software development.
+
+We look forward to reviewing your application and potentially welcoming you to our team!
+
 Resume Screening::
 Initial Screening: Review resumes to shortlist candidates based on their experience, technical skills, and past projects that align with the role requirements.
 

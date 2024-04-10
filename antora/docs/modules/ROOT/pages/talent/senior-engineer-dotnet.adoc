@@ -12,7 +12,7 @@ As a Senior Software Engineer, you will be expected to:
 - Keep up-to-date with emerging trends and technologies in software development. You should be passionate about software development and be excited to learn about new tools, technologies, and best practices.
 - Mentor junior engineers and guide them to ensure the team's success. You should be comfortable working with junior engineers and be able to provide guidance and support as needed.
 
-Requirements::
+Qualifications::
 To be considered for this role, you should possess:
 - A Bachelor's degree in Computer Science or a related field. A Master's degree is preferred.
 - At least six years of experience in software development, with a focus on C# and .NET Frameworks. You should have experience working on large-scale projects and be able to demonstrate your ability to design, develop, and implement complex software solutions.
@@ -22,4 +22,4 @@ To be considered for this role, you should possess:
 - Strong problem-solving and analytical skills, with the ability to think creatively and outside the box. You should be comfortable working with complex systems and be able to think critically and creatively to solve problems.
 - Excellent communication and interpersonal skills, with the ability to work effectively in a team environment. You should be comfortable working in a team environment and be able to communicate effectively with your peers, stakeholders, and customers.
 
-If you are a passionate Senior Software Engineer with a desire to work on challenging projects and a proven track record of success, we encourage you to apply. Please send your resume and cover letter to [company email address].
+If you are a passionate Senior Software Engineer with a desire to work on challenging projects and a proven track record of success, we encourage you to apply.
