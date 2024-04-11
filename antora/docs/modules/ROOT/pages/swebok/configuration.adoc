@@ -1,0 +1,14 @@
+= Software Configuration Management
+:navtitle: SCM
+
+Software Configuration Management (SCM), delves into the systematic approach to managing changes in software products to maintain integrity and traceability throughout the software lifecycle. SCM is defined as applying configuration management principles to software artifacts, including identification, change control, status accounting, and auditing. SCM covers the importance of supporting project management, development, maintenance activities, quality assurance (QA) activities, and ensuring the completeness and correctness of configuration items (CIs).
+
+== Key Topics:
+
+- Management of the SCM Process: Outlines how SCM controls the evolution and integrity of a product by identifying its components (CIs), managing changes, and ensuring documentation and compliance with requirements. It emphasizes the need for careful planning and management, considering organizational contexts and constraints.
+- Software Configuration Identification: Discusses identifying items to be controlled, including establishing identification schemes and managing versions and baselines. This forms the foundation for other SCM activities by defining what is subject to SCM controls.
+- Software Configuration Change Control: Covers the processes for requesting, evaluating, and approving changes to CIs. This includes the use of a Software Configuration Control Board (SCCB) to oversee the change process and ensure that changes are managed in a controlled manner.
+- Software Configuration Status Accounting (SCSA): Focuses on recording and reporting the status of CIs and changes to them. This includes tracking versions, and ensuring integrity and traceability of the software configuration.
+- Software Configuration Auditing: Involves reviewing CIs and the SCM process to ensure compliance with specified requirements. This includes both functional and physical configuration audits as well as in-process audits to verify ongoing compliance and integrity of the software configuration.
+- Software Release Management and Delivery: Addresses the processes involved in building software from CIs, creating versions for delivery, and ensuring that the software package is correctly compiled and ready for deployment.
+- Software Configuration Management Tools: Describes various tools that support SCM activities, from version control and build handling to change control tools. It highlights the importance of integrating SCM tools with other processes and tools to effectively manage software configurations.

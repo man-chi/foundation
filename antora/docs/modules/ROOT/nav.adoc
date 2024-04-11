@@ -10,6 +10,7 @@
 ** xref:swebok/testing.adoc[Testing]
 ** xref:swebok/operations.adoc[Operations]
 ** xref:swebok/maintenance.adoc[Maintenance]
+** xref:swebok/configuration.adoc[Configuration]
 * xref::[Programming]
 ** xref:programming/paradigms.adoc[Paradigms]
 ** xref:programming/structured.adoc[Structured]

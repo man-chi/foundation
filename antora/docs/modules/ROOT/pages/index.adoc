@@ -1,6 +1,6 @@
 = Research Paper
 :navtitle: Research Paper
-:description: Research Paper: The Convergence of Design and Metrics: Proposing a Metamodel for Software Engineering Excellence
+:description: Research Paper: The Convergence of Design and Metrics for Software Engineering
 
 {description}
 
