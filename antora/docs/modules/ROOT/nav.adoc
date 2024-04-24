@@ -30,6 +30,8 @@
 ** xref:talent/interview.adoc[Interview]
 ** xref:talent/manager.adoc[Engineering Manager]
 ** xref:talent/lead-engineer.adoc[Lead Software Engineer]
+** xref:talent/mid-engineer-dotnet.adoc[Mid-Level Software Engineer (.Net)]
+** xref:talent/mid-engineer-dotnet_tw.adoc[Mid-Level Software Engineer (.Net) 中文]
 ** xref:talent/senior-engineer-dotnet.adoc[Senior Software Engineer (.Net)]
 ** xref:talent/senior-engineer-ml.adoc[Senior ML Engineer (Python)]
 ** xref:talent/training.adoc[Training]
