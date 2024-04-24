@@ -1,0 +1,56 @@
+= Mid-Level Software Engineer (.Net)
+:navtitle: Mid-Level Software Engineer (.Net)
+
+
+Job Description::
+Our company seeks an experienced and highly skilled Software Engineer to join our team. In this role, you will design, develop, and implement complex software solutions using C# and .NET Frameworks. You should have a deep understanding of software development principles and at least four years of experience working in this field.
+
+== Responsibilities
+
+As a Software Engineer, you will be expected to:
+
+- Work collaboratively with cross-functional teams to identify business requirements and translate them into software solutions. This includes working with stakeholders to understand their needs and priorities and designing software solutions that meet those requirements.
+- Design, develop, test, and maintain software applications and systems using C# and .NET Frameworks. You will be responsible for creating high-quality, maintainable code that adheres to coding standards and best practices.
+- Write clean, maintainable, and efficient code that adheres to coding standards and best practices. You should be comfortable working with complex codebases and be able to debug software applications and systems as needed.
+- Participate in code reviews, providing constructive feedback to ensure code quality. You should be comfortable working in a team environment and be able to provide feedback to your peers constructively and respectfully.
+- Keep up-to-date with emerging trends and technologies in software development. You should be passionate about software development and be excited to learn about new tools, technologies, and best practices.
+
+== Qualifications
+
+To be considered for this role, you should possess:
+
+- A Bachelor’s degree in Computer Science or a related field.
+- At least 4 years of experience in software development, with a focus on C# and .NET Frameworks. You should have experience working on large-scale projects and be able to demonstrate your ability to design, develop, and implement complex software solutions.
+- A strong understanding of software development principles, including design
+patterns, data structures, algorithms, and system architecture. You should be comfortable working with complex systems and be able to think critically and creatively to solve problems.
+- Proficiency in C# and .NET Frameworks, with experience working with web-based applications and services. You should have experience working with RESTful APIs, web services, and other web-based technologies.
+- Experience with Agile methodologies, including Scrum and Kanban. You should be comfortable working in an Agile environment and be able to work collaboratively with your peers to deliver high-quality software solutions.
+- Strong problem-solving and analytical skills, with the ability to think creatively and outside the box. You should be comfortable working with complex systems and be able to think critically and creatively to solve problems.
+- Excellent communication and interpersonal skills, with the ability to work effectively in a team environment. You should be comfortable working in a team environment and be able to communicate effectively with your peers, stakeholders, and customers.
+
+If you are a passionate Software Engineer with a desire to work on challenging projects and a proven track record of success, we encourage you to apply.
+
+== Interview process
+Stage 1 - Initial Call::
+
+- Conduct an initial phone call: This initial conversation assesses the candidate’s communication skills and motivation
+
+Stage 2 - Technical Assessment::
+
+- Conduct a take-home assignment, and evaluate candidates' technical skills by relevant coding tests. The test will be based on an open-source project, and candidates have to create unit tests to demonstrate their ability to write code using best practices such as null safety, error handling, documentation, and coding standards.
+
+Stage 3 - Technical Interviews::
+
+- Fundamental Skill: based on the take-home assignment, conduct code review sessions focusing on principles, system design, and areas relevant to the company’s tech stack. Include problem-solving sessions and coding exercises.
+
+- Leadership and Design Skills: For senior positions, include discussions around system design, architecture, and leadership experiences. Assess their ability to mentor others, lead projects, and make high-level design decisions.
+
+Stage 4 - Behavioral Interview::
+
+- Soft Skills: problem-solving abilities, and how the candidate has handled past challenges on teamwork, conflict, and project management.
+
+- Team Fit and Culture Fit: Include interviews or informal chats with potential team members to assess cultural and team fit. This helps ensure the candidate can work well within the team and aligns with the company’s values.
+
+Stage 5 - Reference Checks::
+
+- Conduct Reference Checks: Speak with former managers to verify the candidate’s experiences, strengths, and areas for improvement.

@@ -1,0 +1,55 @@
+
+= Layers of the Architecture
+
+Presentation Layer::
+Components: VR User Interfaces, User Interaction Handlers
+Responsibilities: Handles user input and presents visual output. It interacts with the Application Layer via events and commands.
+Tools: Unity’s UI system for VR.
+- handle UI, receive input events from VR controller and translate them into application-specific events or commands
+- uses services provided by the application layer to update UI based on app state
+
+Application Layer::
+Components: Services, Event Handlers, Command Handlers
+Responsibilities: Acts as a mediator between the Presentation and Domain layers, handling application logic and workflows.
+Interaction: Translates commands and data from the Presentation layer into actions and queries in the Domain layer.
+- receives events or commands from the presentation layer and processes accordingly
+- raise events or update UI through the presentation layer
+Workflow and Pipeline Management: The application layer orchestrates the flow of the application by coordinating the interactions between the different layers, such as the presentation layer, domain layer, and data access layer. It manages the sequence of operations and ensures that the appropriate layers are invoked in the correct order.
+
+Validation and Input Handling: The application layer can perform validation checks on the input data received from the presentation layer or external sources. It ensures that the data meets the required constraints and business rules before passing it to the domain layer for further processing.
+
+Event and Data Transformation: The application layer can handle events and transform data between different formats or representations. For example, it may convert data from the presentation layer into a format suitable for the domain layer, or transform data from the domain layer into a format that can be consumed by external systems or services.
+
+Mediator Pattern: The application layer acts as a mediator between the different layers, decoupling them from each other and facilitating communication. It provides a unified interface or facade for external clients or services to interact with the application's functionality.
+
+Cross-Cutting Concerns: The application layer can handle cross-cutting concerns such as logging, caching, security, and transaction management, ensuring that these concerns are consistently applied across the application.
+
+Integration with External Systems: The application layer can facilitate integration with external systems or services by providing adapters or gateways for communication and data exchange.
+
+Domain Layer::
+Components: Entities, Value Objects, Domain Services
+Responsibilities: Encapsulates core business logic and rules specific to the domain of the VR application.
+Interaction: Processes business rules and communicates with the Infrastructure layer for data persistence and retrieval.
+- contains domain models, entitles, and business logic specific to the app domain
+- encapsulates core concepts and rules of application
+provides services to the application layer for operating on domain data
+
+Infrastructure Layer::
+Components: Data Access, External Services Integration (e.g., payment gateways, social networks)
+Responsibilities: Manages data persistence, API integrations, and performs tasks that generally require external resources.
+
+== Integration of Tools
+
+VContainer (Dependency Injection)::
+Usage: Manages the creation and injection of dependencies throughout the application, ensuring that components are loosely coupled and easier to manage.
+Interaction: Injects dependencies in controllers, services, and repositories within the Application and Domain layers.
+
+MessagePipe (Event and Message Handling)::
+Usage: Facilitates the communication between different parts of the application using a pub/sub system.
+Interaction: Used within the Application layer to handle events triggered by the Presentation layer, ensuring decoupling between the layers.
+
+R3 (Event Processing)::
+Usage: Enhances the performance of event handling mechanisms, especially useful in VR applications where performance is critical.
+Interaction: Processes and manages events efficiently, used alongside MessagePipe to handle event-driven communication across layers.
+
+
