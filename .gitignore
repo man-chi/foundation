@@ -47,3 +47,7 @@ __MACOSX/
 
 #python
 __pycache__/
+poetry.lock
+component-python/poetry.lock
+component-python/poetry.lock
+component-python/poetry.lock

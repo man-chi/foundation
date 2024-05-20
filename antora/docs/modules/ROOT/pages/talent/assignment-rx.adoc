@@ -1,0 +1,126 @@
+= Technical Assignment - Rx.NET Unit Testing
+:navtitle: Technical Assessment
+
+== Real-time Data Processing System
+
+Background::
+You are tasked with creating a component of a real-time data processing system. The system receives data from various sources, processes it in real time, and provides processed data to other parts of the application. The data can be of various types, including financial transactions, sensor readings, or user interactions, and it arrives asynchronously.
+
+Requirements::
+Data Ingestion: Implement an IObservable<T> stream that simulates real-time data arrival. The data should be randomly generated and pushed to the stream at irregular intervals.
+
+Data Processing::
+
+Filter out invalid or null data points.
+Transform the data (e.g., apply a mathematical operation, parse JSON to an object).
+Aggregate or summarize the data over a sliding time window (e.g., calculate the moving average).
+
+Error Handling::
+
+Gracefully handle any errors in the data stream, ensuring the system remains responsive.
+Implement retry logic for transient errors.
+
+Unit Tests::
+
+Write unit tests for your data processing logic using a testing framework compatible with Rx.NET, such as xUnit or NUnit.
+Your tests should cover normal cases, edge cases, error handling, and the handling of null values.
+
+Documentation::
+
+Document your code, focusing on the public interfaces and any non-obvious implementation choices.
+Include a README file that explains how to run your project and tests.
+
+== Evaluation Criteria
+
+Correctness:: The implemented system should correctly process data as per the requirements.
+
+Code Quality:: The code should be clean, well-organized, and follow best practices.
+
+Error Handling:: The system should handle errors and exceptions gracefully, without crashing or losing data.
+
+Unit Tests:: Tests should cover a wide range of scenarios, including happy paths, edge cases, and failure modes.
+
+Documentation:: The code and project should be well-documented, making it easy for others to understand and maintain.
+
+Tips::
+Use Rx.NET's operators like Where, Select, Aggregate, Retry, etc., to implement the processing logic.
+Consider using Subject<T>, ReplaySubject<T>, or BehaviorSubject<T> for your data source simulation.
+Make use of Rx.NET's TestScheduler for testing time-dependent logic in a controlled manner.
+This assignment tests the candidate's ability to work with Rx.NET for real-time data processing, their understanding of reactive programming principles, and their ability to write robust, testable, and well-documented code.
+
+== solution
+Given the complexity and breadth of the assignment, I'll provide a simplified example solution that covers the main points: data ingestion, processing, error handling, and a basic unit test scenario using Rx.NET. This example won't cover all possible scenarios but should give you a good starting point.
+
+
+Step 1: Project Setup
+Create a .NET Core Console Application and add the System.Reactive NuGet package to include Rx.NET. Also, add Microsoft.Reactive.Testing for unit testing and xUnit as the testing framework.
+
+Step 2: Implementing Data Ingestion and Processing
+
+[source,csharp]
+----
+using System;
+using System.Reactive.Linq;
+using System.Threading.Tasks;
+
+namespace RxNetSample
+{
+    public class DataProcessor
+    {
+        public IObservable<double> ProcessData(IObservable<string> inputStream)
+        {
+            return inputStream
+                .Where(data => !string.IsNullOrEmpty(data)) // Filter out null or empty strings
+                .Select(data =>
+                {
+                    // Simulate data parsing and transformation
+                    if (double.TryParse(data, out double result))
+                    {
+                        return result;
+                    }
+                    else
+                    {
+                        throw new FormatException("Invalid data format");
+                    }
+                })
+                .Retry(3) // Retry up to 3 times on error
+                .Catch<double, FormatException>(ex => Observable.Empty<double>()); // Continue on parsing errors
+        }
+    }
+}
+----
+
+Step 3: Error Handling and Nullable Value Handling
+The above ProcessData method demonstrates basic error handling and nullable value filtering. It retries on errors and skips items that can't be parsed.
+
+Step 4: Unit Testing
+Create a new xUnit test project in the solution and add a reference to the main project and Microsoft.Reactive.Testing.
+
+[source,csharp]
+----
+using System;
+using System.Reactive.Linq;
+using System.Reactive.Threading.Tasks;
+using Xunit;
+using RxNetSample;
+
+public class DataProcessorTests
+{
+    [Fact]
+    public async Task ProcessData_FiltersAndProcessesValidData()
+    {
+        var testData = new[] { "1", "a", "2", null, "3", "b" };
+        var processor = new DataProcessor();
+        var results = processor.ProcessData(testData.ToObservable()).ToEnumerable();
+
+        Assert.Collection(results,
+            item => Assert.Equal(1, item),
+            item => Assert.Equal(2, item),
+            item => Assert.Equal(3, item));
+    }
+}
+----
+
+Step 5: Documentation and README
+Make sure to document your methods using XML comments and create a README.md file explaining how to build, run, and test your application.
+

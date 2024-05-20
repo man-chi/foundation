@@ -34,5 +34,11 @@ The emphasis on modular programming encourages the division of a program into se
 
 Structured programming languages, such as C, Pascal, and Ada, embody these characteristics to various extents, promoting the development of reliable, efficient, and easy-to-maintain software.
 
-
-
+Order by Scope::
+- context  (internal & external system)
+- container (deployment runtime)
+- module (group by namespace)
+- class / struct
+- method / function
+- controlflow
+- statement / expression 
