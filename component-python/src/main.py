@@ -1,5 +1,6 @@
 import math
 
+
 # Recommend importing commonly used modules
 def main():
     print(sum(1, 2))

@@ -1,0 +1,48 @@
+== UI/UX OKR
+
+1. Conduct at least 6 usability testing sessions with healthcare professionals and incorporate their feedback by Q2.
+
+2. Integrate the application seamlessly with at least 2 major electronic health record (EHR) systems by Q3.
+
+3. Reduce the average time spent on data entry and documentation by 20% compared to the current workflow by Q4.
+
+4. Organize at least 2 knowledge-sharing sessions by Q4.
+
+== Ceritifcation OKR
+
+=== Objective 1: Achieve ISO 13485 certification for the medical device quality management system.
+
+- Conduct a comprehensive gap analysis and develop an implementation plan for ISO 13485 compliance by Q2.
+- Implement at least 80% of the required processes and procedures for ISO 13485 certification by Q3.
+- Successfully obtain ISO 13485 certification by Q4.
+
+=== Objective 2: Obtain FDA 510(k) clearance for the medical application.
+
+- Prepare and submit a comprehensive 510(k) application to the FDA by Q3.
+- Address at least 90% of the FDA's questions and requests for additional information within the specified timeframes.
+- Receive FDA 510(k) clearance for the medical application by Q4.
+
+- Develop and implement a centralized document management system for all certification-related documents by Q2.
+- training
+
+
+== label
+- Achieve an overall labeling accuracy rate of 95% or higher across all data sets by Q4.
+
+- Implement at least 3 quality control measures (e.g., double-checking, peer review, automated validation) to improve label accuracy by Q3.
+
+- Reduce the average time spent on labeling tasks by 20% compared to the previous year by Q4.
+
+- Automate at least 30% of the labeling processes (e.g., data preprocessing, annotation tools) by Q3.
+
+- Evaluate and implement at least 2 new labeling tools or software to enhance the labeling process by Q4.
+
+- Develop and maintain a centralized repository of labeling resources, guidelines, and best practices by Q2.
+
+
+== training course
+- Create at least 10 new training modules covering various medical topics and skills by Q4.
+- Update and revise at least 5 existing training modules to incorporate the latest medical guidelines and best practices by Q3.
+- Achieve an average content quality score of 90% or higher based on feedback from subject matter experts by Q2.
+- Offer at least 3 training modules in multiple languages to cater to a diverse audience by Q2.
+
