@@ -1,0 +1,688 @@
+
+== Software Requirements 
+=== Software Requirements Articles  x 21
+Module 1 - Requirements in a Global World
+Module 1 - User Requirements and System Requirements
+Module 2 - Stakeholders in Global Requirements Engineering - Lessons Learned from Practice
+Module 3 - Does Involving Users in Software Development Really Influence System Success
+Module 3 - Software Quality Requirements - How to Balance Competing Priorities
+Module 3 - Techniques for Requirements Elicitation
+Module 4 - Securing the Skies - In Requirements We Trust
+Module 4 - Software Mythbusters Explore Formal Methods
+Module 5 - Exactly How Are Requirements Written
+Module 5 - Privacy Requirements in an Age of Sharing
+Module 5 - Requirements Engineering Next Top Model
+Module 5 - Safety, Security, Now Sustainability - The Non-Functional Requirement for the 21st Century
+Module 5 - Privacy Requirements in an Age of Sharing
+Module 5 - 830-1998 IEEE Recommended Practice for Software Requirements Specifications
+Module 6 - Does Involving Users in Software Development Really Influence System Success
+Module 6 - Lean Software Development - A Tutorial
+Module 6 - No Silver Bullet - Essence and Accidents of Software Engineering
+Module 7 - Strategic Traceability for Safety-Critical Projects
+Module 7 - A Roadmap for Requirements Monitoring
+Module 7 - So What is Requirements Work
+Module 8 - Requirements Engineering Tools
+
+=== Software Requirements Videos x 8 + 9
+Module 1 - Software Requirements Fundamentals
+Module 2 - Requirements Process
+Module 3 - Requirements Elicitation
+Module 4 - Requirements Analysis
+Module 5 - Requirements Specification
+Module 6 - Requirements Validation
+Module 7 - Practical Considerations
+Module 8 - Software Requirements Tools
+Requirement Applications 1 - Introduction
+Requirement Applications 2 - Detail Level and Timing Issues
+Requirement Applications 3 - Common Problems with Natural Language
+Requirement Applications 4 - Specification Basics
+Requirement Applications 5 - Ten Attributes of a Good Requirement
+Requirement Applications 6 - Specifying Functional Requirements and Constraints
+Requirement Applications 7 - Specifying Quality and Performance Requirements 1
+Requirement Applications 8 - Specifying Quality and Performance Requirements 2
+Requirement Applications 9 - Landing Zones
+
+== Software Design Design 
+== Software Design Articles x 14
+Assuring Good Style for Object-Oriented Programs
+Refactoring Reusable Business Components
+Patterns
+This car runs on code
+Usability through Software Design
+Usability and User-Centered Design in Scientific Software Development
+Federal government calls for more secure software design
+Abstraction classes in software design
+Strategies for Early-Stage Collaborative Design
+Design Patterns- Magic or Myth
+Designing software architectures to achieve quality attribute requirements Software
+Making Practical Use of Quality Attribute Information
+The state of design
+Aspect-Oriented Software Development in Practice
+
+Module 1 - Design Fundamentals (v8) (4)
+Module 2 - Key Issues in Software Design (7)
+Module 3 - Software Structure and Architecture (5)
+Module 4 - User Interface Design (7)
+Module 5 - Software Design Quality Analysis and Evaluation (3)
+Module 6 - Software Design Notations (2)
+Module 7 - Software Design Strategies and Methods (6)
+Module 8 - Software Design Tools
+
+
+= Software Construction
+Software Construction Articles x 18
+Modularization of a Large-Scale Business Application: A Case Study
+Development with Off-the-Shelf Components: 10 Facts
+What Makes APIs Hard to Learn? Answers from Developers
+Parallelizing Bzip2: A Case Study in Multicore Software Engineering
+Back to the Future: Omniscient Debugging
+To Code Is Human
+Multitier Diversification in Web-Based Software Applications
+The Software behind Moore's Law
+Managing Technical Debt: Insights from Recent Empirical Evidence
+What Do Mobile App Users Complain About?
+Technical Debt
+Application-Screen Masking: A Hybrid Approach
+Fifteen Years of Service-Oriented Architecture at Credit Suisse
+Software Development Tooling: Information, Opinion, Guidelines, and Tools
+Collaboration Spaces for Virtual Software Teams
+Onboarding in Open Source Projects
+Programming with Implicit Flows
+Are We There Yet?: Simple Language Implementation Techniques for the 21st Century
+
+Module 1 - Construction Fundamentals (5)
+Module 2 - Managing Construction (3)
+Module 3 - Practical Consideration (8)
+Module 4 - Construction Technologies (1)
+Module 5 - Construction Tools
+
+= Software Testing
+Software Testing Articles x 30
+
+Seven Principles of Software Testing
+GUI Testing- Pitfalls and Process
+Software Testing
+On Rapid Releases and Software Testing
+Software Testing- What Goes Around Comes Around
+Agile Software Testing in a Large-Scale Project
+Software Test Cases- Is One Ever Enough
+First Do No Harm
+Designing a Framework with Test-Driven Development- A Journey
+Usability through Software Design
+Strategic Traceability for Safety-Critical Projects
+Using Mutation to Enhance GUI Testing Coverage
+The 10-Minute Test Plan
+Eating Your Own Dog Food
+Distributed Agile, Agile Testing and Technical Debt
+A Brave New World of Testing? An Interview with Google's James Whittaker
+Test Management
+Comparing the Defect Reduction Benefits of Code Inspection and Test-Driven Development
+The Role of Inspections in Software Quality Assurance
+What Do We Know about Defect Detection Methods
+Advances in Software Inspections
+Software Inspections - An Effective Verification Process
+Comparing the Effectiveness of Software Testing Strategies
+Investigating Reading Techniques for Object-Oriented Framework Learning
+On the Effectiveness of the Test-First Approach to Programming
+What Do We Know about Test-Driven Development
+TDD—The Art of Fearless Programming
+Mutation Testing Cost Reduction Techniques - A Survey
+Hints on Test Data Selection - Help for the Practicing Programmer
+Design for Test
+
+
+Module 1 - Software Testing Fundamentals (3)
+Module 2 - Test Levels (2)
+Module 3 - Test Techniques (6)
+Module 4 - Test-Related Measures  (2)
+Module 5 - Test Process (2)
+Module 6 - Software Testing Tools
+
+= 06 Software Maintenance 
+== Software Maintenance Articles x 8 
+Programs, life-cycles and the laws of software evolutions
+The State of the Maintenance
+Measuring and Managing Software Maintenance
+A framework for maintenance metrics
+Metrics for Assessing Software System Maintainability
+The AMES Approach to Application Understanding: A Case Study
+Planning the reengineering of legacy systems
+Using Extreme Programming in a Maintenance Environment
+
+Module 1 - Software Maintenance Fundamentals
+Module 2 - Key Issues in Software Maintenance
+Module 3 - Maintenance Process
+Module 4 - Techniques for Maintenance
+Module 5 - Software Maintenance Tools 
+
+
+= 07 Software Engineering Configuration Management
+Software Configuration Management Articles x 13
+
+Configuration Management for Proactive Adaptation in Pervasive Environments
+Configuration Management Stories from the Distributed Software Development Trenches
+Infrastructure Pattern Discovery in Configuration Management Databases via Large Sparse Graph Mining
+Software Configuration Management Issues with Industrial Opensourcing
+Automated State-Space Exploration for Configuration Management of Service-Oriented Applications
+Automatic Policy Rule Extraction for Configuration Management
+Fuzzy Decision Analysis of the Software Configuration Management Tools Selection
+Software Configuration Management in Global Software Development: A Systematic Map
+Software Configuration Management of Version Control Study Based on Baseline
+Traceability Enhancement Technique through the Integration of Software Configuration Management and Individual Working Environment
+A Fragile Software Watermarking Algorithm for Software Configuration Management
+Software Configuration Management
+The Development of Software Configuration Management Repository
+
+Module 1 - Management of SCM Process
+Module 2 - Software Configuration Identification
+Module 3 - Software Configuration Control
+Module 4 - Software Configuration Status Accounting
+Module 5 - Software Configuration Auditing
+Module 6 - Software Release Management & Delivery
+Module 7 - Software Configuration Management Tools
+
+= Software Engineering Management (vdieo only)
+Module 1 - Initiation & Scope Definition
+Module 2 - Software Project Planning
+Module 3 - Software Project Enactment
+Module 4 - Review and Evaluation
+Module 5 - Closure
+Module 6 - Software Engineering Measurement
+Module 7 - Software Engineering Management Tools
+
+= Software Engineering Process (video only)
+Module 1 - Software Process Definition
+Module 2 - Software Life Cycles
+Module 3 - Software Processs Assessment and Improvement
+Module 4 - Software Measurement
+Module 5 - Software Engineering Process Tools
+
+=  Software Engineering Models and Methods (video only)
+Module 1 - Modeling
+Module 2 - Types of Models
+Module 3 - Analysis of Models
+Module 4 - Software Engineering Methods
+
+
+= Software Engineering Quality (video only)
+Module 1 - Software Quality Fundamentals
+Module 2 - Software Quality Management Processes
+Module 3 - Practical Considerations
+
+= Software Engineering Economics (video only)
+Module 1 Economics Fundamentals
+Module 2 For-Profit Decision Making
+Module 3 Not-For-Profit Decision Making
+Module 4 Present Economy
+Module 5 Estimation, Risk and Uncertainty
+Module 6 Multiple Attributes
+
+
+== study notes KA 6 SCM
+SCM 6
+IEEE 828-1998
+- process
+	- org context 
+		 - People, product, project, cross -org, process ((CMM, bootstrap), tool
+	- contraints & guidance 
+		6 func ares: source code mgmt, build engineering, environent configuration, change control, release engineering, deployment.
+		3 categories: h/w s/w managed & controlled CI(config item, such as project plan, quality plan, test plans)
+		policy, procedures and standards: artifacts, nameing, chnages, version
+		1. Config ID policy for system level req,  s/w, h/w, data
+		2. change control policies: sys, s/w h/w, data
+		3. doc change control policies 
+		4. status accounting & reporting policies 
+	- planning & plan: tasks, org, resp, rsc, schedules, tools, impl, control, interface control
+	- plan: purpose, scope, vocabulary, reference. scope=activities (Template)
+		plan: intro, management, relations to env, activities, schedule, tools, technique, methods
+	- surveillance(measurement/monitoring), a form of QA,, level of requirement and flexibility important
+- identication 
+	- items: relationship: map items to software structure, support evolution of software, tracking relationship for supporting traceability. labelling and versioning.
+	- soft library: s controlled collectin of CI
+- control 
+	- request & approval: submit change request, evaluate cost and impact , accept/ mdofiy/reject
+		general change Process (sop)
+		change request (CR) ISO 2010
+		evalute change impact by CCB
+		qpproving/ disapproving 	
+	- implementation change
+		activities: impl, test, archiving, plan, control, corodinate, delivery new baseline.
+	- deviation/waiver: deviation process (SOP)
+- status accounting
+	status info: status= changes, deviations, waivers, change control flow (SOP)
+	how status about ci colected, reported. 
+	status reporting:  ad-hoc report, periodic report
+- auditing 
+	- functional, physical, baseline
+	- functional configuration audit (fca)
+	- inprocess software audit
+	- SCM => then  FCA, PCA
+- release management
+	- building and release
+  
+audit:
+- initiator
+- participants
+- subject
+- report
+
+inspection (formal review)
+- find error in design, code and clear doc
+
+inspection find 80%
+unit testing found 20% error
+
+== study notes KA7 - management
+IEEE 7- management
+- planning, coordinating, measuring, monitoring, controlling, reporting
+- 3 level 
+	- org, infra, project, measurement
+sw  - high novelty, complexity, changes
+org & infra level
+	- policy & procedures
+	- hiring, training, mentoring
+	- portfolio 
+project anagement level
+measurement level
+engineering = measurement
+scope, define: adhoc processes  
+managed process has monitoring & control function
+
+feasbility analysis: effort, time, cost
+	alternative and selected deliverables 
+	expert judement, mathematical model
+- traceability analysis
+- risk analysis
+* change procedure and authorization level
+* impact analsys and tracability matrix
+
+Planning
+
+project planning:
+	process planning
+	determine deliverables
+	effort, schedule, cost
+	resource allocation, risk, quality 	managmeent , plan management
+	
+estimation strategy:
+1. product view, top down estimation  parametic est.
+bottom-up, plan based estimation, 
+estimation mdoels: uncertainty cone
+function point ISO 20926
+
+risk is not uncertainty 
+risk is negative effect => impact
+opportunity is positive effect
+
+risk management
+- avoidance
+- control
+- transference
+risk severity= probabilit of occurance * potential negative impact
+risk exposure (RE)= probability of an unsatisfacotry outcome of risk event (P) x amount at stake (L-Loss)
+
+soft unneeded features, abandonment, intangible nature
+
+enactment activities:
+- montioring
+- controlling
+- reporting
+
+contracting
+- customer aquisition
+- suppliers
+
+contract agarement
+- scope of work
+- deliverables
+- penalties for late
+- IP agreement
+compliance with terms
+
+suppliers contracts:
+- cost + inventive fee
+- time and material
+- fixed price
+- cost+ fixed fee
+
+measure process 15939
+- adherence to schedule, code ( for task, measure output and criteria)
+- inspection rate and defects found
+- testing progress vs planned
+- find and fix defect in testing
+- no. of customer report
+
+monitor process
+- cost, scheudle, outliers, defect analysis, risk exposures
+- monitor threshold
+
+control process-> adherence for SCM control and  procedues
+
+status report: internal, external, design review, post portem
+
+reviewing and evaluation -> answer feasbility 
+
+Project mgmt audit (PMA)
+
+measurement scale:
+ordinal - ranking (order
+interval
+ratio
+nominal (set)
+
+tools: monte carlo simulation 
+
+== KA 8 process
+IEEE 8 process 
+2 level: within process : acquisition, development, maintence, retirement
+meta-level: definition , life cycles, assessment & improvement, measurment, tools
+
+process management: PDCA
+process implementation change - IDEAL
+initiating, diagnosing, establish, acting, leveraging 
+
+IEEE 12207 
+IEEE 1058:  management plan
+- managerial process
+- tech process
+- supporting process
+- startup plan
+- work plan
+- control plan
+- risk management plan
+- closeout
+
+assessment models
+(practices)
+ - development
+- maintenace
+- project management 
+sys eng
+- HR mgmt
+
+assessment methods:
+- quantitative vs qualifativ
+- ***CMMI
+
+process measurement
+- process capability
+- process performance
+
+software measurement
+- time taken for particular process
+- rsc required
+- # of defects
+
+measurement process and product
+- efficiency (effort)
+	- product complexity 
+	- defect density
+	- total defects
+	- quality of requirement
+	- quality of deisgn doc
+	- high fan-in = reuse 
+- effectiveness (output)
+	- productivity = output produces/rsc consumes
+
+measurement result +expereience > measurement model
+
+goal / questin / metric
+root cause analysis 
+effort variance
+
+cause and effect category
+- people
+- methods
+- machines
+- materials
+- measurement
+- env
+
+process measurement baseline
+-plan > improve > monitor > appraise
+
+measurement quality
+- validity
+- predictive value
+- reproducibility
+- reliabilty
+
+== KA 9 - method & models
+models
+- information model
+- structure model
+- behaviors model
+
+model properties 
+- completeness
+- consistency
+- correctness
+
+model have
+- vocabulary : entity, attributes
+- syntax: is-a , has-a
+- semntics: meaning
+
+- pramatics: in context
+
+most useful
+- class diagram
+- state
+- use case
+- communication
+
+use case:
+- BDD t(Textual modelling)
+
+design by contract
+
+information model 
+- E-R -> conceptual -> logical -> phyicsl
+
+behaviour model
+- state machine
+- control flow (seq / activity)
+- data flow
+
+class diagram:
+- lollipops
+package = namespace
+component = plugin extend, third party
+
+analyzing for completenss 
+	- review and inspection
+	- automated analysis
+number of states= n-bit 2 to power of n
+
+consistency
+solution => data dictionary
+
+automatic analysis (for formal models)
+manual analysis (all stakeshodlers)
+
+analysis for correctness
+ tools
+Review and inspections
+
+traceblity
+- links
+- dependecny relationship 
+- model downward, upward link, links between model. 
+
+3 level
+requirement -> model -> system  
+tracability matrix
+
+interaction: sync vs async
+
+heuristic methods
+- structured  method
+- data modelling 
+- OOP
+- UP 
+
+data modeling (top down, bottom-up
+relationship, attribute, generalization
+
+OOP  
+
+analysis class: 
+boundary: interaction btw system and actor
+control: cordination, sequence 
+entity: persistent info
+
+formal method:
+syntax + domain + satisfies = formal method 
+
+formal method: level 0,1,2  (mainly 10% of machine covered)
+
+formal method can benefit all dev phase
+
+prototyping 
+- vertical vs horizontal
+- high-if
+- low-if prototyping: disney story boarding
+
+prototyping approaches: exploration, experimentation, evolution
+
+== KA 10 - quality
+- fundamentals
+	culture
+	value and cost
+	model & chars
+	improvement
+- define quality , start from requirement
+
+product quality vs process quality  
+productivity vs quality
+
+quality attribute
+dynamic 
+	mean time to failure
+	failure recovery time 
+	% of rsc used
+static 
+	- modularity
+	- simplicity
+	- completeness
+(ilites)
+
+ISO 9126 product quality
+ISO 90003 vs CMMI
+
+SQM processes:
+- how software plan: magem, dev scm being implemented
+- how well meeting specificed req
+- report accurate
+- reactive in natiure
+- practive in terms of process 
+- risk analysis
+
+** V& V
+
+SQM
+measure:
+- cyclomatic complexity
+- # program size
+- # error message
+
+quantitative measures
+- rate of failure occurrence
+- mean time to failure (MTTF)
+- availability
+
+SQE engineering effort put into product
+SQA help achieve quality (different org)
+
+impossible to achieve quality by testing
+review is not sufficient, engineer into product
+
+different type of defects:
+- error
+- fault problem lead to fault (incorrect step)
+- failure = incorrect result 
+- mistake = human action
+
+priority 1, 2,3,4,5
+
+techniques
+- static techn
+- dynamic techn
+- analytical techn
+- people-intensive tech
+
+static analysis
+- complexity analysis
+- proof of correctness
+- control flow analysis
+- formal methods
+- algorithm analysis 
+
+
+== KA 11 - economics
+IEEE 11- economics
+- MARR
+- taxes
+- future & present value
+- net present 
+- decision making
+- estimation
+- risk mangement
+- estimating uncertainty 
+- multiple attribute decision 
+
+Proposal  -feasibility analysis
+- background
+- feature and benefit
+- tech element
+- related research
+- management elements
+- cost 
+- risk and rewards
+- dev org
+ 
+decsion making process
+- state problem
+- identify alternative
+- evaluate alternative
+- make decision 
+- implement decision
+
+compond interest = 
+P(1+i)^n
+
+
+ROI - compare 2 invest over same time,  not diff time
+IRR internal rate of return, (with compond rate as Yield)
+
+for profit decision analysis
+
+MARR - minimum attractive rate of return
+
+planning horizon: 
+	BAC = budget at completion
+
+depreciation
+	- actual depreciation
+	- depreciation accounting
+		straight line
+		decling balance
+non-profit decisiong making
+	- fixed cost 
+	- fixed effectiveness
+
+for-profit decision making
+	- break-even analysis
+		- decision variable
+		- objective function
+		total cost = inital cost + maintence cost)	
+	- optimization analysis
+
+estimation
+risk
+uncertainty
+
+
+economics  fundamentals
+- cash flow instance
+- cash flow streams
